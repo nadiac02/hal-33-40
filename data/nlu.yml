@@ -93,117 +93,117 @@ nlu:
 
   # Start FAQ 33-40
 
-- intent: tanya/tanya_penilaian_pembelajaran
-  examples: |
-    - apa saja yang mengatur penilaian pembelajaran?
-    - apa yang mengatur penilaian pembelajaran ?
-    - apa aturan penilaian pembelajaran?
-    - aturan penilaian pembelajaran?
-    - bagaimana pengaturan penilaian pembelajaran?
-    - pengaturan penilaian pembelajaran?
+  - intent: tanya/tanya_penilaian_pembelajaran
+    examples: |
+      - apa saja yang mengatur penilaian pembelajaran?
+      - apa yang mengatur penilaian pembelajaran ?
+      - apa aturan penilaian pembelajaran?
+      - aturan penilaian pembelajaran?
+      - bagaimana pengaturan penilaian pembelajaran?
+      - pengaturan penilaian pembelajaran?
 
-- intent: tanya/tanya_cakupan_penilaian_pembelajaran
-  examples: |
-    - apa saja cakupan penilaian pembelajaran?
-    - apa cakupan penilaian pembelajaran?
-    - cakupan penilaian pembelajaran?
-    - apa saja jangkauan penilaian pembelajaran?
-    - apa jangkauan penilaian pembelajaran?
-    - jangkauan penilaian pembelajaran?
-    - apa saja lingkup penilaian pembelajaran?
-    - apa lingkup penilaian pembelajaran?
-    - lingkup penilaian pembelajaran?
+  - intent: tanya/tanya_cakupan_penilaian_pembelajaran
+    examples: |
+      - apa saja cakupan penilaian pembelajaran?
+      - apa cakupan penilaian pembelajaran?
+      - cakupan penilaian pembelajaran?
+      - apa saja jangkauan penilaian pembelajaran?
+      - apa jangkauan penilaian pembelajaran?
+      - jangkauan penilaian pembelajaran?
+      - apa saja lingkup penilaian pembelajaran?
+      - apa lingkup penilaian pembelajaran?
+      - lingkup penilaian pembelajaran?
 
-- intent: tanya/tanya_prinsip_penilaian
-  examples: |
-    - apa saja prinsip penilaian?
-    - apa prinsip penilaian?
-    - prinsip penilaian?
-    - apa saja asas penilaian?
-    - apa asas penilaian?
-    - asas penilaian?
-    - apa saja dasar penilaian?
-    - apa dasar penilaian?
-    - dasar penilaian?
+  - intent: tanya/tanya_prinsip_penilaian
+    examples: |
+      - apa saja prinsip penilaian?
+      - apa prinsip penilaian?
+      - prinsip penilaian?
+      - apa saja asas penilaian?
+      - apa asas penilaian?
+      - asas penilaian?
+      - apa saja dasar penilaian?
+      - apa dasar penilaian?
+      - dasar penilaian?
 
-- intent: tanya/tanya_pemberian_umpan_balik
-  examples: |
-    - apakah akan ada pemberian umpan balik oleh dosen?
-    - apakah ada pemberian umpan balik oleh dosen?
-    - apakah dosen akan memberi umpan balik?
-    - apa akan ada pemberian umpan balik oleh dosen?
-    - apa ada pemberian umpan balik oleh dosen?
-    - apa dosen akan memberi umpan balik?
+  - intent: tanya/tanya_pemberian_umpan_balik
+    examples: |
+      - apakah akan ada pemberian umpan balik oleh dosen?
+      - apakah ada pemberian umpan balik oleh dosen?
+      - apakah dosen akan memberi umpan balik?
+      - apa akan ada pemberian umpan balik oleh dosen?
+      - apa ada pemberian umpan balik oleh dosen?
+      - apa dosen akan memberi umpan balik?
 
-- intent: tanya/tanya_instrumen_penilaian
-  examples: |
-    - apa itu instrumen penilaian?
-    - apa instrumen penilaian?
-    - instrumen penilaian?
+  - intent: tanya/tanya_instrumen_penilaian
+    examples: |
+      - apa itu instrumen penilaian?
+      - apa instrumen penilaian?
+      - instrumen penilaian?
 
-- intent: tanya/tanya_apa_saja_instrumen_penilaian
-  examples: |
-    - apa saja detail instrumen penilaian?
-    - apa saja instrumen penilaian?
-    - apa detail dari instrumen penilaian?
-    - apa saja list instrumen penilaian?
-    - apa isi dari instrumen penilaian?
+  - intent: tanya/tanya_apa_saja_instrumen_penilaian
+    examples: |
+      - apa saja detail instrumen penilaian?
+      - apa saja instrumen penilaian?
+      - apa detail dari instrumen penilaian?
+      - apa saja list instrumen penilaian?
+      - apa isi dari instrumen penilaian?
 
-- intent: tanya/tanya_teknik_penilaian
-  examples: |
-    - apa itu teknik penilaian?
-    - apa teknik penilaian?
-    - apa saja teknik penilaian?
-    - teknik penilaian?
+  - intent: tanya/tanya_teknik_penilaian
+    examples: |
+      - apa itu teknik penilaian?
+      - apa teknik penilaian?
+      - apa saja teknik penilaian?
+      - teknik penilaian?
 
-- intent: tanya/tanya_mekanisme_penilaian
-  examples: |
-    - bagaimana mekanisme penilaian?
-    - apa saja mekanisme dalam penilaian?
-    - apa isi dari mekanisme dalam penilaian?
+  - intent: tanya/tanya_mekanisme_penilaian
+    examples: |
+      - bagaimana mekanisme penilaian?
+      - apa saja mekanisme dalam penilaian?
+      - apa isi dari mekanisme dalam penilaian?
 
-- intent: tanya/tanya_sistem_penilian
-  examples: |
-    - kosong
+  - intent: tanya/tanya_sistem_penilian
+    examples: |
+      - kosong
 
-- intent: tanya/tanya_pengulangan_mata_kuliah
-  examples: |
-    - bagaimana saya dapat mengulang mata kuliah?
+  - intent: tanya/tanya_pengulangan_mata_kuliah
+    examples: |
+      - bagaimana saya dapat mengulang mata kuliah?
 
-- intent: tanya/tanya_perbaikan_nilai
-  examples: |
-    - bagaimana saya dapat memperbaiki nilai?
+  - intent: tanya/tanya_perbaikan_nilai
+    examples: |
+      - bagaimana saya dapat memperbaiki nilai?
 
-- intent: tanya/tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
-  examples: |
-    - bagaimana cara mentransfer nilai jika saya murid pindahan?
-    - bagaimana cara mendapatkan pengakuan kredit jika saya murid pindahan?
+  - intent: tanya/tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
+    examples: |
+      - bagaimana cara mentransfer nilai jika saya murid pindahan?
+      - bagaimana cara mendapatkan pengakuan kredit jika saya murid pindahan?
 
-- intent: tanya/tanya_transfer_nilai_dan_pengakuan_kredit_unsri
-  examples: |
-    - bagaimana cara mendapat pengakuan kredit dari mata kuliah yang diambil di luar universitas sriwijaya?
+  - intent: tanya/tanya_transfer_nilai_dan_pengakuan_kredit_unsri
+    examples: |
+      - bagaimana cara mendapat pengakuan kredit dari mata kuliah yang diambil di luar universitas sriwijaya?
 
-- intent: tanya/tanya_ips_dan_ipk
-  examples: |
-    - kosong
+  - intent: tanya/tanya_ips_dan_ipk
+    examples: |
+      - kosong
 
-- intent: tanya/tanya_evaluasi_akademik
-  examples: |
-    - kosong
+  - intent: tanya/tanya_evaluasi_akademik
+    examples: |
+      - kosong
 
-- intent: tanya/tanya_kriteria_putus_studi_program_diploma
-  examples: |
-    - apa saja kriteria yang menyatakan putus studi dalam program diploma?
+  - intent: tanya/tanya_kriteria_putus_studi_program_diploma
+    examples: |
+      - apa saja kriteria yang menyatakan putus studi dalam program diploma?
 
-- intent: tanya/tanya_kriteria_putus_studi_program_sarjana
-  examples: |
-    - apa saja kriteria yang menyatakan putus studi dalam program sarjana?
+  - intent: tanya/tanya_kriteria_putus_studi_program_sarjana
+    examples: |
+      - apa saja kriteria yang menyatakan putus studi dalam program sarjana?
 
-- intent: tanya/tanya_kriteria_putus_studi_program_magister
-  examples: |
-    - apa saja kriteria yang menyatakan putus studi dalam program magister?
+  - intent: tanya/tanya_kriteria_putus_studi_program_magister
+    examples: |
+      - apa saja kriteria yang menyatakan putus studi dalam program magister?
 
-- intent: tanya/tanya_kriteria_putus_studi_program_doktor
-  examples: |
-    - apa saja kriteria yang menyatakan putus studi dalam program doktor?
+  - intent: tanya/tanya_kriteria_putus_studi_program_doktor
+    examples: |
+      - apa saja kriteria yang menyatakan putus studi dalam program doktor?
 
