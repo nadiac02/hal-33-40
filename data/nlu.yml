@@ -185,7 +185,12 @@ nlu:
 
   - intent: tanya/tanya_ips_dan_ipk
     examples: |
-      - kosong
+      - apa itu ips?
+      - apa itu ipk?
+      - apa tujuan ips?
+      - apa tujuan ipk?
+      - kenapa harus ada ips?
+      - kenapa harus ada ipk?
 
   - intent: tanya/tanya_evaluasi_akademik
     examples: |
