@@ -183,14 +183,13 @@ nlu:
     examples: |
       - bagaimana cara mendapat pengakuan kredit dari mata kuliah yang diambil di luar universitas sriwijaya?
 
-  - intent: tanya/tanya_ips_dan_ipk
+  - intent: tanya_ips_dan_ipk
     examples: |
-      - apa itu ips?
-      - apa itu ipk?
-      - apa tujuan ips?
-      - apa tujuan ipk?
-      - kenapa harus ada ips?
-      - kenapa harus ada ipk?
+      - apa itu [ips]{"entity":"ip"}?
+      - apa pengertian [ipk]{"entity":"ip"}?
+      - apa yang dimaksud dengan [ip]{"entity":"ip"}?
+      - apa tujuan [ip]{"entity":"ip"}?
+      - kenapa harus ada [ips]{"entity":"ip"}?
 
   - intent: tanya/tanya_evaluasi_akademik
     examples: |
