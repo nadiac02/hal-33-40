@@ -9,6 +9,11 @@ intents:
   - mood_unhappy
   - bot_challenge
   - tanya
+  - tanya_ips_dan_ipk:
+    use_entities: true
+
+entities:
+- ip
 
 responses:
   utter_greet:
