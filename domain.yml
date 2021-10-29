@@ -184,9 +184,6 @@ ke aturan penilaian Universitas Sriwijaya oleh Dekan/Direktur sesuai
 kewenangannya, dan diusulkan ke Rektor. Penetapan nilai mata kuliah dimaksud
 ditetapkan dalam Surat Keputusan Rektor."
 
-  utter_tanya/tanya_ips_dan_ipk:
-  - text: "kosong"
-
   utter_tanya/tanya_evaluasi_akademik:
   - text: "kosong"
 
