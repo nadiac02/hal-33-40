@@ -56,3 +56,8 @@ stories:
   - action: utter_hello
   - intent: tanya/tanya_kriteria_putus_studi_program_doktor
   - action: utter_tanya/tanya_kriteria_putus_studi_program_doktor
+
+- story: tanya ips dan ipk path
+  steps:
+  - intent: tanya_ips_dan_ipk
+  - action: action_tanya_ips_dan_ipk
