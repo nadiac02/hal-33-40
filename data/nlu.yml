@@ -210,6 +210,50 @@ nlu:
       - sebutkan ketentuan untuk nilai bahasa inggris?
       - jelaskan mengenai ketentuan untuk nilai bahasa inggris?
   
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_ekonomi
+    examples: |
+      - kosong
+    
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_hukum
+    examples: |
+      - kosong
+      
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_teknik
+    examples: |
+      - kosong
+    
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_kedokteran
+    examples: |
+      - kosong
+      
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_pertanian
+    examples: |
+      - kosong
+      
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_fkip
+    examples: |
+      - kosong
+      
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_fisip
+    examples: |
+      - kosong
+   
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_mipa
+    examples: |
+      - kosong
+     
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_fasilkom
+    examples: |
+      - kosong
+   
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_fkm
+    examples: |
+      - kosong
+      
+  - intent: tanya/tanya_standar_nilai_bahasa_inggris_pps
+    examples: |
+      - kosong
+  
   - intent: tanya/tanya_kriteria_putus_studi_program_diploma
     examples: |
       - apa saja kriteria yang menyatakan putus studi dalam program diploma?
