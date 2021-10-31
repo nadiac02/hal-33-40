@@ -190,7 +190,15 @@ nlu:
   - intent: tanya/tanya_evaluasi_akademik
     examples: |
       - kosong
-
+  
+  - intent: tanya/tanya_ketentuan_nilai_bahasa_inggris
+    examples: |
+      - ketentuan nilai bahasa inggris?
+      - apa ketentuan untuk nilai bahasa inggris?
+      - apa saja ketentuan untuk nilai bahasa inggris?
+      - sebutkan ketentuan untuk nilai bahasa inggris?
+      - jelaskan mengenai ketentuan untuk nilai bahasa inggris?
+  
   - intent: tanya/tanya_kriteria_putus_studi_program_diploma
     examples: |
       - apa saja kriteria yang menyatakan putus studi dalam program diploma?
