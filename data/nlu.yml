@@ -1,4 +1,4 @@
-version: '2.0'
+version: "2.0"
 
 nlu:
   - intent: greet
@@ -189,7 +189,13 @@ nlu:
 
   - intent: tanya/tanya_evaluasi_akademik
     examples: |
-      - kosong
+      - evaluasi akademik itu apa?
+      - apa itu evaluasi akademik?
+      - apa evaluasi akademik?
+      - apa manfaat evaluasi akademik?
+      - apa tujuan evaluasi akademik?
+      - mengapa ada evaluasi akademik?
+      - tujuan dari evaluasi akademik
 
   - intent: tanya/tanya_kriteria_putus_studi_program_diploma
     examples: |
@@ -206,4 +212,3 @@ nlu:
   - intent: tanya/tanya_kriteria_putus_studi_program_doktor
     examples: |
       - apa saja kriteria yang menyatakan putus studi dalam program doktor?
-
