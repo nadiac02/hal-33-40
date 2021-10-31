@@ -209,7 +209,464 @@ persyaratan skor minimum Test Bahasa Inggris yang telah ditentukan.
 program studi seperti tertera pada Tabel 3.7.
 7. Ketentuan lain mengenai penguasaan Bahasa Inggris mahasiswa akan
 ditetapkan dalam surat keputusan Rektor."
+
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_ekonomi:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ekonomi:
+  Diploma Tiga
+  1. Akuntansi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Kesekretariatan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Sarjana
+  1. Manajemen
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Ekonomi Pembangunan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Akuntansi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Ilmu Ekonomi
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Ilmu Manajemen
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  3. Magister Manajemen
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 4
+  Doktor
+  1. Ilmu Ekonomi
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  2. Ilmu Manajemen
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5"
+     
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_hukum:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas hukum:
+  Sarjana
+  1. Ilmu Hukum
+     Test Unsri: 425
+     TOEFL: 425
+     IELTS: 3,5
+  Magister
+  1. Ilmu Hukum
+     Test Unsri: 425
+     TOEFL: 425
+     IELTS: 3,5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  2. Kenotariatan
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  Doktor
+  1. Ilmu Hukum
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+     
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_teknik:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas teknik:
+  Diploma
+  Sarjana
+  1. Teknik Sipil
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Teknik Pertambangan
+     Test Unsri: 425
+     TOEFL: 425
+     IELTS: 3,5
+  3. Teknik Kimia
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  4. Teknik Mesin
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  5. Teknik Elektro
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  6. Arsitektur
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  7. Teknik Geologi
+     Test Unsri: 425
+     TOEFL: 425
+     IELTS: 3,5
+  Magister
+  1. Teknik Kimia
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Teknik Sipil
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  3. Teknik Pertambangan
+     Test Unsri: 425
+     TOEFL: 425
+     IELTS: 3,5
+  4. Teknik Mesin
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Ilmu Teknik
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+     
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_kedokteran:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kedokteran:
+  Sarjana
+  1. Ilmu Keperawatan
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Pend. Dokter
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  3. Pend. Dokter Gigi
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  4. Psikologi
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Magister
+  1. Biomedik
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Sains Biomedik
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"  
+     
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_pertanian:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas pertanian:
+  Sarjana
+  1. Agribisnis
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Proteksi Tanaman
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Teknik Pertanian
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  4. Teknologi Hasil Pertanian
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  5. Peternakan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  6. Budidaya Perairan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  7. Teknologi Hasil Perikanan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  8. Agronomi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  9. Ilmu Tanah
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  10. Agroekoteknologi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Ilmu Tanaman
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Agribisnis
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Ilmu Pertanian
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
   
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_fkip:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas keguruan dan ilmu pendidikan:
+  Sarjana
+  1. Pend. Bahasa Inggris
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  2. Pend. Bahasa Indonesia
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. PPKN
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  4. Pend. Sejarah
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  5. Pend. Ekonomi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  6. Bimbingan Konseling
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  7. Pend Teknik Mesin
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  8. Pend. Matematika
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  9. Pend. Fisika
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  10. Pend. Kimia
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  11. Pend. Biologi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  12. PGSD
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  8. PAUD
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  9. Penjaskes
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  10. Pend. Masyarakat
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Pend. Bahasa
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Pend. Bahasa (Bahasa Inggris)
+     Test Unsri: 525
+     TOEFL: 525
+     IELTS: 5,5
+  3. Pend. Matematika
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  4. Pend. Fisika
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  5. Teknologi Pendidikan
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  6. Pendidikan Olahraga
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Pendidikan Matematika
+     Test Unsri: 475
+     TOEFL: 475
+     IELTS: 4,5"
+  
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_fisip:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu sosial dan ilmu politik:
+  Sarjana
+  1. Ilmu Administrasi Publik
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Sosiologi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Hubungan Internasional
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  4. Ilmu Komunikasi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Magister Administrasi Publik
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Sosiologi
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Administrasi Publik
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+  
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_mipa:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas mipa:
+  Sarjana
+  1. Matematika
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Fisika
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Kimia
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  4. Biologi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  5. Farmasi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  6. Ilmu Kelautan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Fisika
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Kimia
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  3. Biologi
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. MIPA
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+  
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_fasilkom:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu komputer:
+  Sarjana
+  1. Komputerisasi Akuntansi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Manajemen Informatika
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Teknik Komputer
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  4. Sistem Komputer
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  5. Sistem Informasi
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  6. Teknik Informatika
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5
+  Magister
+  1. Magister Ilmu Komputer
+     Test Unsri: 500
+     TOEFL: 500
+     IELTS: 5"
+  
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_fkm:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kesehatan masyarakat:
+  Sarjana
+  1. Ilmu Kesehatan Masyarakat
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  2. Ilmu Gizi
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  3. Kesehatan Lingkungan
+     Test Unsri: 400
+     TOEFL: 400
+     IELTS: 3
+  Magister
+  1. Ilmu Kesehatan Masyarakat
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+  
+  utter_tanya/tanya_standar_nilai_bahasa_inggris_pps:
+  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di program pasca sarjana:
+  Magister
+  1. Pengelolaan Lingkungan
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  2. Kependudukan
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4
+  Doktor
+  1. Ilmu Lingkungan
+     Test Unsri: 450
+     TOEFL: 450
+     IELTS: 4"
+     
   utter_tanya/tanya_kriteria_putus_studi_program_diploma:
   - text: "Mahasiswa Program Diploma dinyatakan putus studi (drop out) apabila memenuhi satu
 atau lebih kriteria berikut:
