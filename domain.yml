@@ -184,7 +184,32 @@ ditetapkan dalam Surat Keputusan Rektor."
 
   utter_tanya/tanya_evaluasi_akademik:
   - text: "kosong"
-
+  
+  utter_tanya/tanya_ketentuan_nilai_bahasa_inggris:
+  - text: "1. Mahasiswa Universitas Sriwijaya diwajibkan memenuhi ketentuan nilai tes
+Bahasa Inggris. Tes bahasa Inggris yang diakui nilainya adalah nilai test yang
+diselenggarakan oleh Universitas Sriwijaya, atau dari Official TOEFL Score yang
+diselenggarakan oleh Princeton, Amerika Serikat; IELTS yang diselenggarakan
+British Council, Inggris dan telah diverifikasi oleh Universitas Sriwijaya.
+2. Mahasiswa yang pernah mendapat ijazah pendidikan bergelar dari negara lain
+berbahasa pengantar Bahasa Inggris, atau pernah mempublikasikan karya
+ilmiah dalam Bahasa Inggris sebagai penulis pertama dalam 3 (tiga) tahun
+terakhir sebelum memulai pendidikan di Universitas Sriwijaya, dibebaskan dari
+ketentuan pada angka 1 di atas.
+3. Test Bahasa Inggris Universitas Sriwijaya adalah test Bahasa Inggris yang
+dilaksanakan oleh Tim Pengelola Pengujian Universitas Sriwijaya yang dibentuk
+berdasarkan Surat Keputusan Rektor Universitas Sriwijaya.
+4. Test Bahasa Inggris Universitas Sriwijaya WAJIB diambil oleh mahasiswa sejak
+terdaftar di Universitas Sriwijaya hingga mencapai skor nilai yang telah
+ditetapkan untuk masing-masing prodi sebelum dinyatakan lulus dari Universitas
+Sriwijaya.
+5. Mahasiswa tidak diperkenankan mengikuti yudisium apabila belum memenuhi
+persyaratan skor minimum Test Bahasa Inggris yang telah ditentukan.
+6. Nilai minimal test Bahasa Inggris yang dipersyaratkan oleh masing-masing
+program studi seperti tertera pada Tabel 3.7.
+7. Ketentuan lain mengenai penguasaan Bahasa Inggris mahasiswa akan
+ditetapkan dalam surat keputusan Rektor."
+  
   utter_tanya/tanya_kriteria_putus_studi_program_diploma:
   - text: "Mahasiswa Program Diploma dinyatakan putus studi (drop out) apabila memenuhi satu
 atau lebih kriteria berikut:
