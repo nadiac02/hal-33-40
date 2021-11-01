@@ -209,6 +209,852 @@ nlu:
       - apa saja ketentuan untuk nilai bahasa inggris?
       - sebutkan ketentuan untuk nilai bahasa inggris?
       - jelaskan mengenai ketentuan untuk nilai bahasa inggris?
+      
+   - intent: tanya/tanya_suliet_fakultas_ekonomi
+  examples: |
+      - nilai kemampuan bahasa inggris Fakultas Ekonomi
+	    - nilai test kemampuan bahasa inggris unsri Fakultas Ekonomi
+	    - berapa nilai test kemampuan bahasa inggris unsri Fakultas Ekonomi
+	    - nilai TOEFL Fakultas Ekonomi
+	    - berapa nilai TOEFL Fakultas Ekonomi
+	    - nilai IELTS Fakultas Ekonomi
+	    - berapa nilai IELTS Fakultas Ekonomi
+	    - berapa nilai minimal kemampuan bahasa inggris Fakultas Ekonomi
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Akuntansi
+	    - nilai TOEFL jurusan Akuntansi
+ 	    - nilai IELTS jurusan Akuntansi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Akuntansi
+	    - berapa standarisasi nilai TOEFL jurusan Akuntansi
+	    - berapa standarisasi nilai IELTS jurusan Akuntansi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Akuntansi
+ 	    - berapa standar nilai TOEFL jurusan Akuntansi
+	    - berapa standar nilai IELTS jurusan Akuntansi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Akuntansi
+	    - berapa nilai minimum TOEFL jurusan Akuntansi
+  	  - berapa nilai minimum IELTS jurusan Akuntansi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Akuntansi
+	    - berapa nilai minimal TOEFL jurusan Akuntansi
+	    - berapa nilai minimal IELTS jurusan Akuntansi
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Kesekertariatan
+	    - nilai TOEFL jurusan Kesekertariatan
+ 	    - nilai IELTS jurusan Kesekertariatan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Kesekertariatan
+	    - berapa standarisasi nilai TOEFL jurusan Kesekertariatan
+	    - berapa standarisasi nilai IELTS jurusan Kesekertariatan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Kesekertariatan
+ 	    - berapa standar nilai TOEFL jurusan Kesekertariatan
+	    - berapa standar nilai IELTS jurusan Kesekertariatan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Kesekertariatan
+	    - berapa nilai minimum TOEFL jurusan Kesekertariatan
+  	  - berapa nilai minimum IELTS jurusan Kesekertariatan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Kesekertariatan
+	    - berapa nilai minimal TOEFL jurusan Kesekertariatan
+	    - berapa nilai minimal IELTS jurusan Kesekertariatan
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Manajemen
+	    - nilai TOEFL jurusan Manajemen
+ 	    - nilai IELTS jurusan Manajemen
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Manajemen
+	    - berapa standarisasi nilai TOEFL jurusan Manajemen
+	    - berapa standarisasi nilai IELTS jurusan Manajemen
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Manajemen
+ 	    - berapa standar nilai TOEFL jurusan Manajemen
+	    - berapa standar nilai IELTS jurusan Manajemen
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Manajemen
+	    - berapa nilai minimum TOEFL jurusan Manajemen
+  	  - berapa nilai minimum IELTS jurusan Manajemen
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Manajemen
+	    - berapa nilai minimal TOEFL jurusan Manajemen
+	    - berapa nilai minimal IELTS jurusan Manajemen
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Ekonomi Pembangunan
+	    - nilai TOEFL jurusan Ekonomi Pembangunan
+ 	    - nilai IELTS jurusan Ekonomi Pembangunan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ekonomi Pembangunan
+	    - berapa standarisasi nilai TOEFL jurusan Ekonomi Pembangunan
+	    - berapa standarisasi nilai IELTS jurusan Ekonomi Pembangunan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ekonomi Pembangunan
+ 	    - berapa standar nilai TOEFL jurusan Ekonomi Pembangunan
+	    - berapa standar nilai IELTS jurusan Ekonomi Pembangunan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ekonomi Pembangunan
+	    - berapa nilai minimum TOEFL jurusan Ekonomi Pembangunan
+  	  - berapa nilai minimum IELTS jurusan Ekonomi Pembangunan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ekonomi Pembangunan
+	    - berapa nilai minimal TOEFL jurusan Ekonomi Pembangunan
+	    - berapa nilai minimal IELTS jurusan Ekonomi Pembangunan
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Ekonomi
+	    - nilai TOEFL jurusan Ilmu Ekonomi
+ 	    - nilai IELTS jurusan Ilmu Ekonomi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Ekonomi
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Ekonomi
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Ekonomi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Ekonomi
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Ekonomi
+	    - berapa standar nilai IELTS jurusan Ilmu Ekonomi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Ekonomi
+	    - berapa nilai minimum TOEFL jurusan Ilmu Ekonomi
+  	  - berapa nilai minimum IELTS jurusan Ilmu Ekonomi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Ekonomi
+	    - berapa nilai minimal TOEFL jurusan Ilmu Ekonomi
+	    - berapa nilai minimal IELTS jurusan Ilmu Ekonomi
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Ilmu manajemen
+	    - nilai TOEFL jurusan Ilmu manajemen
+ 	    - nilai IELTS jurusan Ilmu manajemen
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu manajemen
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu manajemen
+	    - berapa standarisasi nilai IELTS jurusan Ilmu manajemen
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu manajemen
+ 	    - berapa standar nilai TOEFL jurusan Ilmu manajemen
+	    - berapa standar nilai IELTS jurusan Ilmu manajemen
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu manajemen
+	    - berapa nilai minimum TOEFL jurusan Ilmu manajemen
+  	  - berapa nilai minimum IELTS jurusan Ilmu manajemen
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu manajemen
+	    - berapa nilai minimal TOEFL jurusan Ilmu manajemen
+	    - berapa nilai minimal IELTS jurusan Ilmu manajemen
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Magister Manajemen
+	    - nilai TOEFL jurusan Magister Manajemen
+ 	    - nilai IELTS jurusan Magister Manajemen
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Magister Manajemen
+	    - berapa standarisasi nilai TOEFL jurusan Magister Manajemen
+	    - berapa standarisasi nilai IELTS jurusan Magister Manajemen
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Magister Manajemen
+ 	    - berapa standar nilai TOEFL jurusan Magister Manajemen
+	    - berapa standar nilai IELTS jurusan Magister Manajemen
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Magister Manajemen
+	    - berapa nilai minimum TOEFL jurusan Magister Manajemen
+  	  - berapa nilai minimum IELTS jurusan Magister Manajemen
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Magister Manajemen
+	    - berapa nilai minimal TOEFL jurusan Magister Manajemen
+	    - berapa nilai minimal IELTS jurusan Magister Manajemen
+
+
+
+
+
+
+- intent: tanya/tanya_suliet_fakultas_hukum
+  examples: |
+      - nilai kemampuan bahasa inggris Fakultas Hukum
+	    - nilai test kemampuan bahasa inggris unsri Fakultas Hukum
+	    - berapa nilai test kemampuan bahasa inggris unsri Fakultas Hukum
+	    - nilai TOEFL Fakultas Hukum
+	    - berapa nilai TOEFL Fakultas Hukum
+	    - nilai IELTS Fakultas Hukum
+	    - berapa nilai IELTS Fakultas Hukum
+	    - berapa nilai minimal kemampuan bahasa inggris Fakultas Hukum
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Hukum
+	    - nilai TOEFL jurusan Ilmu Hukum
+ 	    - nilai IELTS jurusan Ilmu Hukum
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Hukum
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Hukum
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Hukum
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Hukum
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Hukum
+	    - berapa standar nilai IELTS jurusan Ilmu Hukum
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Hukum
+	    - berapa nilai minimum TOEFL jurusan Ilmu Hukum
+  	  - berapa nilai minimum IELTS jurusan Ilmu Hukum
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Hukum
+	    - berapa nilai minimal TOEFL jurusan Ilmu Hukum
+	    - berapa nilai minimal IELTS jurusan Ilmu Hukum
+
+
+
+ 	    - nilai test kemampuan bahasa inggris unsri jurusan Kenotariatan
+	    - nilai TOEFL jurusan Kenotariatan
+ 	    - nilai IELTS jurusan Kenotariatan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Kenotariatan
+	    - berapa standarisasi nilai TOEFL jurusan Kenotariatan
+	    - berapa standarisasi nilai IELTS jurusan Kenotariatan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Kenotariatan
+ 	    - berapa standar nilai TOEFL jurusan Kenotariatan
+	    - berapa standar nilai IELTS jurusan Kenotariatan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Kenotariatan
+	    - berapa nilai minimum TOEFL jurusan Kenotariatan
+  	  - berapa nilai minimum IELTS jurusan Kenotariatan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Kenotariatan
+	    - berapa nilai minimal TOEFL jurusan Kenotariatan
+	    - berapa nilai minimal IELTS jurusan Kenotariatan
+
+
+
+
+
+- intent: tanya/tanya_suliet_fakultas_teknik
+  examples: |
+      - nilai kemampuan bahasa inggris Fakultas Teknik
+	    - nilai test kemampuan bahasa inggris unsri Fakultas Teknik
+	    - berapa nilai test kemampuan bahasa inggris unsri Fakultas Teknik
+	    - nilai TOEFL Fakultas Teknik
+	    - berapa nilai TOEFL Fakultas Teknik
+	    - nilai IELTS Fakultas Teknik
+	    - berapa nilai IELTS Fakultas Teknik
+	    - berapa nilai minimal kemampuan bahasa inggris Fakultas Teknik
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Sipil
+	    - nilai TOEFL jurusan Teknik Sipil
+ 	    - nilai IELTS jurusan Teknik Sipil
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Sipil
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Sipil
+	    - berapa standarisasi nilai IELTS jurusan Teknik Sipil
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Sipil
+ 	    - berapa standar nilai TOEFL jurusan Teknik Sipil
+	    - berapa standar nilai IELTS jurusan Teknik Sipil
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Sipil
+	    - berapa nilai minimum TOEFL jurusan Teknik Sipil
+  	  - berapa nilai minimum IELTS jurusan Teknik Sipil
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Sipil
+	    - berapa nilai minimal TOEFL jurusan Teknik Sipil
+	    - berapa nilai minimal IELTS jurusan Teknik Sipil
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertambangan
+	    - nilai TOEFL jurusan Teknik Pertambangan
+ 	    - nilai IELTS jurusan Teknik Pertambangan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertambangan
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Pertambangan
+	    - berapa standarisasi nilai IELTS jurusan Teknik Pertambangan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertambangan
+ 	    - berapa standar nilai TOEFL jurusan Teknik Pertambangan
+	    - berapa standar nilai IELTS jurusan Teknik Pertambangan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Pertambangan
+	    - berapa nilai minimum TOEFL jurusan Teknik Pertambangan
+  	  - berapa nilai minimum IELTS jurusan Teknik Pertambangan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Pertambangan
+	    - berapa nilai minimal TOEFL jurusan Teknik Pertambangan
+	    - berapa nilai minimal IELTS jurusan Teknik Pertambangan
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Kimia
+	    - nilai TOEFL jurusan Teknik Kimia
+ 	    - nilai IELTS jurusan Teknik Kimia
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Kimia
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Kimia
+	    - berapa standarisasi nilai IELTS jurusan Teknik Kimia
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Kimia
+ 	    - berapa standar nilai TOEFL jurusan Teknik Kimia
+	    - berapa standar nilai IELTS jurusan Teknik Kimia
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Kimia
+	    - berapa nilai minimum TOEFL jurusan Teknik Kimia
+  	  - berapa nilai minimum IELTS jurusan Teknik Kimia
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Kimia
+	    - berapa nilai minimal TOEFL jurusan Teknik Kimia
+	    - berapa nilai minimal IELTS jurusan Teknik Kimia
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Elektro
+	    - nilai TOEFL jurusan Teknik Elektro
+ 	    - nilai IELTS jurusan Teknik Elektro
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Elektro
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Elektro
+	    - berapa standarisasi nilai IELTS jurusan Teknik Elektro
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Elektro
+ 	    - berapa standar nilai TOEFL jurusan Teknik Elektro
+	    - berapa standar nilai IELTS jurusan Teknik Elektro
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Elektro
+	    - berapa nilai minimum TOEFL jurusan Teknik Elektro
+  	  - berapa nilai minimum IELTS jurusan Teknik Elektro
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Elektro
+	    - berapa nilai minimal TOEFL jurusan Teknik Elektro
+	    - berapa nilai minimal IELTS jurusan Teknik Elektro
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - nilai TOEFL jurusan Teknik Mesin
+ 	    - nilai IELTS jurusan Teknik Mesin
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Mesin
+	    - berapa standarisasi nilai IELTS jurusan Teknik Mesin
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+ 	    - berapa standar nilai TOEFL jurusan Teknik Mesin
+	    - berapa standar nilai IELTS jurusan Teknik Mesin
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa nilai minimum TOEFL jurusan Teknik Mesin
+  	  - berapa nilai minimum IELTS jurusan Teknik Mesin
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa nilai minimal TOEFL jurusan Teknik Mesin
+	    - berapa nilai minimal IELTS jurusan Teknik Mesin
+
+
+
+
+  	  - nilai test kemampuan bahasa inggris unsri jurusan Arsitektur
+	    - nilai TOEFL jurusan Arsitektur
+ 	    - nilai IELTS jurusan Arsitektur
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Arsitektur
+	    - berapa standarisasi nilai TOEFL jurusan Arsitektur
+	    - berapa standarisasi nilai IELTS jurusan Arsitektur
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Arsitektur
+ 	    - berapa standar nilai TOEFL jurusan Arsitektur
+	    - berapa standar nilai IELTS jurusan Arsitektur
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Arsitektur
+	    - berapa nilai minimum TOEFL jurusan Arsitektur
+  	  - berapa nilai minimum IELTS jurusan Arsitektur
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Arsitektur
+	    - berapa nilai minimal TOEFL jurusan Arsitektur
+	    - berapa nilai minimal IELTS jurusan Arsitektur
+
+
+
+    	- nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - nilai TOEFL jurusan Teknik Mesin
+ 	    - nilai IELTS jurusan Teknik Mesin
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Mesin
+	    - berapa standarisasi nilai IELTS jurusan Teknik Mesin
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+ 	    - berapa standar nilai TOEFL jurusan Teknik Mesin
+	    - berapa standar nilai IELTS jurusan Teknik Mesin
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa nilai minimum TOEFL jurusan Teknik Mesin
+  	  - berapa nilai minimum IELTS jurusan Teknik Mesin
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Mesin
+	    - berapa nilai minimal TOEFL jurusan Teknik Mesin
+	    - berapa nilai minimal IELTS jurusan Teknik Mesin
+
+
+      - nilai test kemampuan bahasa inggris unsri jurusan Teknik Geologi
+	    - nilai TOEFL jurusan Teknik Geologi
+ 	    - nilai IELTS jurusan Teknik Geologi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Geologi
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Geologi
+	    - berapa standarisasi nilai IELTS jurusan Teknik Geologi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Geologi
+ 	    - berapa standar nilai TOEFL jurusan Teknik Geologi
+	    - berapa standar nilai IELTS jurusan Teknik Geologi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Geologi
+	    - berapa nilai minimum TOEFL jurusan Teknik Geologi
+  	  - berapa nilai minimum IELTS jurusan Teknik Geologi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Geologi
+	    - berapa nilai minimal TOEFL jurusan Teknik Geologi
+	    - berapa nilai minimal IELTS jurusan Teknik Geologi
+
+
+
+ 	    - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Teknik
+ 	    - nilai TOEFL jurusan Ilmu Teknik
+ 	    - nilai IELTS jurusan Ilmu Teknik
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Teknik
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Teknik
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Teknik
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Teknik
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Teknik
+	    - berapa standar nilai IELTS jurusan Ilmu Teknik
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Teknik
+	    - berapa nilai minimum TOEFL jurusan Ilmu Teknik
+  	  - berapa nilai minimum IELTS jurusan Ilmu Teknik
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Teknik
+	    - berapa nilai minimal TOEFL jurusan Ilmu Teknik
+	    - berapa nilai minimal IELTS jurusan Ilmu Teknik
+
+
+
+
+- intent: tanya/tanya_suliet_fakultas_kedokteran
+  examples: |
+      - nilai kemampuan bahasa inggris Fakultas Kedokteran
+	    - nilai test kemampuan bahasa inggris unsri Fakultas Kedokteran
+	    - berapa nilai test kemampuan bahasa inggris unsri Fakultas Kedokteran
+	    - nilai TOEFL Fakultas Kedokteran
+	    - berapa nilai TOEFL Fakultas Kedokteran
+	    - nilai IELTS Fakultas Kedokteran
+	    - berapa nilai IELTS Fakultas Kedokteran
+	    - berapa nilai minimal kemampuan bahasa inggris Fakultas Kedokteran
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Keperawatan
+	    - nilai TOEFL jurusan Ilmu Keperawatan
+ 	    - nilai IELTS jurusan Ilmu Keperawatan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Keperawatan
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Keperawatan
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Keperawatan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Keperawatan
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Keperawatan
+	    - berapa standar nilai IELTS jurusan Ilmu Keperawatan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Keperawatan
+	    - berapa nilai minimum TOEFL jurusan Ilmu Keperawatan
+  	  - berapa nilai minimum IELTS jurusan Ilmu Keperawatan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Keperawatan
+	    - berapa nilai minimal TOEFL jurusan Ilmu Keperawatan
+	    - berapa nilai minimal IELTS jurusan Ilmu Keperawatan
+
+
+
+ 	    - nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter
+	    - nilai TOEFL jurusan Pendidikan Dokter
+ 	    - nilai IELTS jurusan Pendidikan Dokter
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter
+	    - berapa standarisasi nilai TOEFL jurusan Pendidikan Dokter
+	    - berapa standarisasi nilai IELTS jurusan Pendidikan Dokter
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter
+ 	    - berapa standar nilai TOEFL jurusan Pendidikan Dokter
+	    - berapa standar nilai IELTS jurusan Pendidikan Dokter
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter
+	    - berapa nilai minimum TOEFL jurusan Pendidikan Dokter
+  	  - berapa nilai minimum IELTS jurusan Pendidikan Dokter
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter
+	    - berapa nilai minimal TOEFL jurusan Pendidikan Dokter
+	    - berapa nilai minimal IELTS jurusan Pendidikan Dokter
+
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter Gigi
+	    - nilai TOEFL jurusan Pendidikan Dokter Gigi
+ 	    - nilai IELTS jurusan Pendidikan Dokter Gigi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter Gigi
+	    - berapa standarisasi nilai TOEFL jurusan Pendidikan Dokter Gigi
+	    - berapa standarisasi nilai IELTS jurusan Pendidikan Dokter Gigi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter Gigi
+ 	    - berapa standar nilai TOEFL jurusan Pendidikan Dokter Gigi
+	    - berapa standar nilai IELTS jurusan Pendidikan Dokter Gigi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter Gigi
+	    - berapa nilai minimum TOEFL jurusan Pendidikan Dokter Gigi
+  	  - berapa nilai minimum IELTS jurusan Pendidikan Dokter Gigi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Pendidikan Dokter Gigi
+	    - berapa nilai minimal TOEFL jurusan Pendidikan Dokter Gigi
+	    - berapa nilai minimal IELTS jurusan Pendidikan Dokter Gigi
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Psikologi
+	    - nilai TOEFL jurusan Psikologi
+ 	    - nilai IELTS jurusan Psikologi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Psikologi
+	    - berapa standarisasi nilai TOEFL jurusan Psikologi
+	    - berapa standarisasi nilai IELTS jurusan Psikologi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Psikologi
+ 	    - berapa standar nilai TOEFL jurusan Psikologi
+	    - berapa standar nilai IELTS jurusan Psikologi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Psikologi
+	    - berapa nilai minimum TOEFL jurusan Psikologi
+  	  - berapa nilai minimum IELTS jurusan Psikologi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Psikologi
+	    - berapa nilai minimal TOEFL jurusan Psikologi
+	    - berapa nilai minimal IELTS jurusan Psikologi
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Biomedik
+	    - nilai TOEFL jurusan Biomedik
+ 	    - nilai IELTS jurusan Biomedik
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Biomedik
+	    - berapa standarisasi nilai TOEFL jurusan Biomedik
+	    - berapa standarisasi nilai IELTS jurusan Biomedik
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Biomedik
+ 	    - berapa standar nilai TOEFL jurusan Biomedik
+	    - berapa standar nilai IELTS jurusan Biomedik
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Biomedik
+	    - berapa nilai minimum TOEFL jurusan Biomedik
+  	  - berapa nilai minimum IELTS jurusan Biomedik
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Biomedik
+	    - berapa nilai minimal TOEFL jurusan Biomedik
+	    - berapa nilai minimal IELTS jurusan Biomedik
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Sains Biomedik
+	    - nilai TOEFL jurusan Sains Biomedik
+ 	    - nilai IELTS jurusan Sains Biomedik
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Sains Biomedik
+	    - berapa standarisasi nilai TOEFL jurusan Sains Biomedik
+	    - berapa standarisasi nilai IELTS jurusan Sains Biomedik
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Sains Biomedik
+ 	    - berapa standar nilai TOEFL jurusan Sains Biomedik
+	    - berapa standar nilai IELTS jurusan Sains Biomedik
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Sains Biomedik
+	    - berapa nilai minimum TOEFL jurusan Sains Biomedik
+  	  - berapa nilai minimum IELTS jurusan Sains Biomedik
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Sains Biomedik
+	    - berapa nilai minimal TOEFL jurusan Sains Biomedik
+	    - berapa nilai minimal IELTS jurusan Sains Biomedik
+
+
+
+
+
+- intent: tanya/tanya_suliet_fakultas_pertanian
+  examples: |
+      - nilai kemampuan bahasa inggris Fakultas Pertanian
+	    - nilai test kemampuan bahasa inggris unsri Fakultas Pertanian
+	    - berapa nilai test kemampuan bahasa inggris unsri Fakultas Pertanian
+	    - nilai TOEFL Fakultas Pertanian
+	    - berapa nilai TOEFL Fakultas Pertanian
+	    - nilai IELTS Fakultas Pertanian
+	    - berapa nilai IELTS Fakultas Pertanian
+	    - berapa nilai minimal kemampuan bahasa inggris Fakultas Pertanian
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Agribisnis
+	    - nilai TOEFL jurusan Agribisnis
+ 	    - nilai IELTS jurusan Agribisnis
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Agribisnis
+	    - berapa standarisasi nilai TOEFL jurusan Agribisnis
+	    - berapa standarisasi nilai IELTS jurusan Agribisnis
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Agribisnis
+ 	    - berapa standar nilai TOEFL jurusan Agribisnis
+	    - berapa standar nilai IELTS jurusan Agribisnis
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Agribisnis
+	    - berapa nilai minimum TOEFL jurusan Agribisnis
+  	  - berapa nilai minimum IELTS jurusan Agribisnis
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Agribisnis
+	    - berapa nilai minimal TOEFL jurusan Agribisnis
+	    - berapa nilai minimal IELTS jurusan Agribisnis
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Proteksi Tanaman
+	    - nilai TOEFL jurusan Proteksi Tanaman
+ 	    - nilai IELTS jurusan Proteksi Tanaman
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Proteksi Tanaman
+	    - berapa standarisasi nilai TOEFL jurusan Proteksi Tanaman
+	    - berapa standarisasi nilai IELTS jurusan Proteksi Tanaman
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Proteksi Tanaman
+ 	    - berapa standar nilai TOEFL jurusan Proteksi Tanaman
+	    - berapa standar nilai IELTS jurusan Proteksi Tanaman
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Proteksi Tanaman
+	    - berapa nilai minimum TOEFL jurusan Proteksi Tanaman
+  	  - berapa nilai minimum IELTS jurusan Proteksi Tanaman
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Proteksi Tanaman
+	    - berapa nilai minimal TOEFL jurusan Proteksi Tanaman
+	    - berapa nilai minimal IELTS jurusan Proteksi Tanaman
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertanian
+	    - nilai TOEFL jurusan Teknik Pertanian
+ 	    - nilai IELTS jurusan Teknik Pertanian
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertanian
+	    - berapa standarisasi nilai TOEFL jurusan Teknik Pertanian
+	    - berapa standarisasi nilai IELTS jurusan Teknik Pertanian
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknik Pertanian
+ 	    - berapa standar nilai TOEFL jurusan Teknik Pertanian
+	    - berapa standar nilai IELTS jurusan Teknik Pertanian
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknik Pertanian
+	    - berapa nilai minimum TOEFL jurusan Teknik Pertanian
+  	  - berapa nilai minimum IELTS jurusan Teknik Pertanian
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknik Pertanian
+	    - berapa nilai minimal TOEFL jurusan Teknik Pertanian
+	    - berapa nilai minimal IELTS jurusan Teknik Pertanian
+
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Pertanian
+	    - nilai TOEFL jurusan Teknologi Hasil Pertanian
+ 	    - nilai IELTS jurusan Teknologi Hasil Pertanian
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Pertanian
+	    - berapa standarisasi nilai TOEFL jurusan Teknologi Hasil Pertanian
+	    - berapa standarisasi nilai IELTS jurusan Teknologi Hasil Pertanian
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Pertanian
+ 	    - berapa standar nilai TOEFL jurusan Teknologi Hasil Pertanian
+	    - berapa standar nilai IELTS jurusan Teknologi Hasil Pertanian
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Pertanian
+	    - berapa nilai minimum TOEFL jurusan Teknologi Hasil Pertanian
+  	  - berapa nilai minimum IELTS jurusan Teknologi Hasil Pertanian
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Pertanian
+	    - berapa nilai minimal TOEFL jurusan Teknologi Hasil Pertanian
+	    - berapa nilai minimal IELTS jurusan Teknologi Hasil Pertanian
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Peternakan
+	    - nilai TOEFL jurusan Peternakan
+ 	    - nilai IELTS jurusan Peternakan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Peternakan
+	    - berapa standarisasi nilai TOEFL jurusan Peternakan
+	    - berapa standarisasi nilai IELTS jurusan Peternakan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Peternakan
+ 	    - berapa standar nilai TOEFL jurusan Peternakan
+	    - berapa standar nilai IELTS jurusan Peternakan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Peternakan
+	    - berapa nilai minimum TOEFL jurusan Peternakan
+  	  - berapa nilai minimum IELTS jurusan Peternakan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Peternakan
+	    - berapa nilai minimal TOEFL jurusan Peternakan
+	    - berapa nilai minimal IELTS jurusan Peternakan
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Budidaya Perairan
+	    - nilai TOEFL jurusan Budidaya Perairan
+ 	    - nilai IELTS jurusan Budidaya Perairan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Budidaya Perairan
+	    - berapa standarisasi nilai TOEFL jurusan Budidaya Perairan
+	    - berapa standarisasi nilai IELTS jurusan Budidaya Perairan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Budidaya Perairan
+ 	    - berapa standar nilai TOEFL jurusan Budidaya Perairan
+	    - berapa standar nilai IELTS jurusan Budidaya Perairan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Budidaya Perairan
+	    - berapa nilai minimum TOEFL jurusan Budidaya Perairan
+  	  - berapa nilai minimum IELTS jurusan Budidaya Perairan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Budidaya Perairan
+	    - berapa nilai minimal TOEFL jurusan Budidaya Perairan
+	    - berapa nilai minimal IELTS jurusan Budidaya Perairan
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Perikanan
+	    - nilai TOEFL jurusan Teknologi Hasil Perikanan
+ 	    - nilai IELTS jurusan Teknologi Hasil Perikanan
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Perikanan
+	    - berapa standarisasi nilai TOEFL jurusan Teknologi Hasil Perikanan
+	    - berapa standarisasi nilai IELTS jurusan Teknologi Hasil Perikanan
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Perikanan
+ 	    - berapa standar nilai TOEFL jurusan Teknologi Hasil Perikanan
+	    - berapa standar nilai IELTS jurusan Teknologi Hasil Perikanan
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Perikanan
+	    - berapa nilai minimum TOEFL jurusan Teknologi Hasil Perikanan
+  	  - berapa nilai minimum IELTS jurusan Teknologi Hasil Perikanan
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Teknologi Hasil Perikanan
+	    - berapa nilai minimal TOEFL jurusan Teknologi Hasil Perikanan
+	    - berapa nilai minimal IELTS jurusan Teknologi Hasil Perikanan
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Agronomi
+	    - nilai TOEFL jurusan Agronomi
+ 	    - nilai IELTS jurusan Agronomi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Agronomi
+	    - berapa standarisasi nilai TOEFL jurusan Agronomi
+	    - berapa standarisasi nilai IELTS jurusan Agronomi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Agronomi
+ 	    - berapa standar nilai TOEFL jurusan Agronomi
+	    - berapa standar nilai IELTS jurusan Agronomi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Agronomi
+	    - berapa nilai minimum TOEFL jurusan Agronomi
+  	  - berapa nilai minimum IELTS jurusan Agronomi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Agronomi
+	    - berapa nilai minimal TOEFL jurusan Agronomi
+	    - berapa nilai minimal IELTS jurusan Agronomi
+
+
+
+   	  - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanah
+	    - nilai TOEFL jurusan Ilmu Tanah
+ 	    - nilai IELTS jurusan Ilmu Tanah
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanah
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Tanah
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Tanah
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanah
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Tanah
+	    - berapa standar nilai IELTS jurusan Ilmu Tanah
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Tanah
+	    - berapa nilai minimum TOEFL jurusan Ilmu Tanah
+  	  - berapa nilai minimum IELTS jurusan Ilmu Tanah
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Tanah
+	    - berapa nilai minimal TOEFL jurusan Ilmu Tanah
+	    - berapa nilai minimal IELTS jurusan Ilmu Tanah
+
+
+
+
+	    - nilai test kemampuan bahasa inggris unsri jurusan Agroekoteknologi
+	    - nilai TOEFL jurusan Agroekoteknologi
+ 	    - nilai IELTS jurusan Agroekoteknologi
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Agroekoteknologi
+	    - berapa standarisasi nilai TOEFL jurusan Agroekoteknologi
+	    - berapa standarisasi nilai IELTS jurusan Agroekoteknologi
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Agroekoteknologi
+ 	    - berapa standar nilai TOEFL jurusan Agroekoteknologi
+	    - berapa standar nilai IELTS jurusan Agroekoteknologi
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Agroekoteknologi
+	    - berapa nilai minimum TOEFL jurusan Agroekoteknologi
+  	  - berapa nilai minimum IELTS jurusan Agroekoteknologi
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Agroekoteknologi
+	    - berapa nilai minimal TOEFL jurusan Agroekoteknologi
+	    - berapa nilai minimal IELTS jurusan Agroekoteknologi
+
+
+
+  	  - nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanaman
+	    - nilai TOEFL jurusan Ilmu Tanaman
+ 	    - nilai IELTS jurusan Ilmu Tanaman
+
+	    - berapa standarisasi nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanaman
+	    - berapa standarisasi nilai TOEFL jurusan Ilmu Tanaman
+	    - berapa standarisasi nilai IELTS jurusan Ilmu Tanaman
+
+	    - berapa standar nilai test kemampuan bahasa inggris unsri jurusan Ilmu Tanaman
+ 	    - berapa standar nilai TOEFL jurusan Ilmu Tanaman
+	    - berapa standar nilai IELTS jurusan Ilmu Tanaman
+
+      - berapa nilai minimum test kemampuan bahasa inggris unsri jurusan Ilmu Tanaman
+	    - berapa nilai minimum TOEFL jurusan Ilmu Tanaman
+  	    - berapa nilai minimum IELTS jurusan Ilmu Tanaman
+
+	    - berapa nilai minimal test kemampuan bahasa inggris unsri jurusan Ilmu Tanaman
+	    - berapa nilai minimal TOEFL jurusan Ilmu Tanaman
+	    - berapa nilai minimal IELTS jurusan Ilmu Tanaman
+
+
+
+
   
   - intent: tanya/tanya_kriteria_putus_studi_program_diploma
     examples: |
