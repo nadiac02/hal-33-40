@@ -233,6 +233,9 @@ dimuat dalam Buku Pedoman Akademik tersendiri; atau
 2. Tidak membayar UKT semester sampai batas waktu yang telah ditentukan dan tidak
 mengajukan SO."
 
+  utter_tanya/tanya_lagi:
+  - text: "Ada lagi yang ingin ditanyakan"
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
