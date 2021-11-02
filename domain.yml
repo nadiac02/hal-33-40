@@ -234,7 +234,7 @@ dimuat dalam Buku Pedoman Akademik tersendiri; atau
 mengajukan SO."
 
   utter_tanya/tanya_lagi:
-  - text: "Ada lagi yang ingin ditanyakan"
+  - text: "Ada lagi yang ingin ditanyakan?"
 
 session_config:
   session_expiration_time: 60
