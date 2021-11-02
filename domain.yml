@@ -210,7 +210,7 @@ program studi seperti tertera pada Tabel 3.7.
 7. Ketentuan lain mengenai penguasaan Bahasa Inggris mahasiswa akan
 ditetapkan dalam surat keputusan Rektor."
 
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_ekonomi:
+  utter_tanya/tanya_suliet_fakultas_ekonomi:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ekonomi:
   Diploma Tiga
   1. Akuntansi
@@ -257,7 +257,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 500
      IELTS: 5"
      
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_hukum:
+  utter_tanya/tanya_suliet_fakultas_hukum:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas hukum:
   Sarjana
   1. Ilmu Hukum
@@ -279,7 +279,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
      
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_teknik:
+  utter_tanya/tanya_suliet_fakultas_teknik:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas teknik:
   Diploma
   Sarjana
@@ -334,7 +334,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
      
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_kedokteran:
+  utter_tanya/tanya_suliet_fakultas_kedokteran:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kedokteran:
   Sarjana
   1. Ilmu Keperawatan
@@ -364,7 +364,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"  
      
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_pertanian:
+  utter_tanya/tanya_suliet_fakultas_pertanian:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas pertanian:
   Sarjana
   1. Agribisnis
@@ -422,7 +422,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_fkip:
+  utter_tanya/tanya_suliet_fkip:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas keguruan dan ilmu pendidikan:
   Sarjana
   1. Pend. Bahasa Inggris
@@ -516,7 +516,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 475
      IELTS: 4,5"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_fisip:
+  utter_tanya/tanya_suliet_fisip:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu sosial dan ilmu politik:
   Sarjana
   1. Ilmu Administrasi Publik
@@ -550,7 +550,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_mipa:
+  utter_tanya/tanya_suliet_fakultas_mipa:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas mipa:
   Sarjana
   1. Matematika
@@ -596,7 +596,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_fasilkom:
+  utter_tanya/tanya_suliet_fasilkom:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu komputer:
   Sarjana
   1. Komputerisasi Akuntansi
@@ -629,7 +629,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 500
      IELTS: 5"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_fkm:
+  utter_tanya/tanya_suliet_fkm:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kesehatan masyarakat:
   Sarjana
   1. Ilmu Kesehatan Masyarakat
@@ -650,7 +650,7 @@ ditetapkan dalam surat keputusan Rektor."
      TOEFL: 450
      IELTS: 4"
   
-  utter_tanya/tanya_standar_nilai_bahasa_inggris_pps:
+  utter_tanya/tanya_suliet_pps:
   - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di program pasca sarjana:
   Magister
   1. Pengelolaan Lingkungan
