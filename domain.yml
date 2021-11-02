@@ -1,4 +1,4 @@
-version: "2.0"
+version: '2.0'
 
 intents:
   - greet
@@ -12,708 +12,735 @@ intents:
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+    - text: 'Hey! How are you?'
 
   utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+    - text: 'Here is something to cheer you up:'
+      image: 'https://i.imgur.com/nGF1K8f.jpg'
 
   utter_did_that_help:
-  - text: "Did that help you?"
+    - text: 'Did that help you?'
 
   utter_happy:
-  - text: "Great, carry on!"
+    - text: 'Great, carry on!'
 
   utter_goodbye:
-  - text: "Bye"
+    - text: 'Bye'
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+    - text: 'I am a bot, powered by Rasa.'
 
   utter_please_rephrase:
     - text: I'm sorry, I didn't quite understand that. Could you rephrase?
 
   # Start FAQ 33-40
 
-utter_tanya/tanya_penilaian_pembelajaran:
-  - text: "Penilaian pembelajaran diatur berdasarkan Peraturan Rektor Universitas Sriwijaya Nomor 5
-Tahun 2020 tentang Standar Pendidikan."
+  utter_tanya/tanya_penilaian_pembelajaran:
+    - text:
+        'Penilaian pembelajaran diatur berdasarkan Peraturan Rektor Universitas Sriwijaya Nomor 5
+        Tahun 2020 tentang Standar Pendidikan.'
 
   utter_tanya/tanya_cakupan_penilaian_pembelajaran:
-  - text: "Penilaian pembelajaran mencakup penilaian proses dan penilaian hasil belajar.
-Penilaian pembelajaran dilakukan untuk SELURUH kegiatan pembelajaran mata kuliah terstruktur
-yang dimuat dalam kurikulum program studi."
+    - text:
+        'Penilaian pembelajaran mencakup penilaian proses dan penilaian hasil belajar.
+        Penilaian pembelajaran dilakukan untuk SELURUH kegiatan pembelajaran mata kuliah
+        terstruktur yang dimuat dalam kurikulum program studi.'
 
   utter_tanya/tanya_prinsip_penilaian:
-  - text: "a. Prinsip edukatif merupakan penilaian yang memotivasi mahasiswa agar mampu
-memperbaiki perencanaan dan cara belajar dan meraih capaian pembelajaran
-lulusan.
-b. Prinsip otentik merupakan penilaian yang berorientasi pada proses belajar yang
-berkesinambungan dan hasil belajar yang mencerminkan kemampuan
-mahasiswa pada saat proses pembelajaran berlangsung.
-c. Prinsip objektif merupakan penilaian yang didasarkan pada standar yang
-disepakati antara dosen dan mahasiswa serta bebas dari pengaruh subjektivitas
-penilai dan yang dinilai.
-d. Prinsip akuntabel merupakan penilaian yang dilaksanakan sesuai dengan
-prosedur dan kriteria yang jelas, disepakati pada awal kuliah, dan dipahami oleh
-mahasiswa.
-e. Prinsip transparan merupakan penilaian yang prosedur dan hasil penilaiannya
-dapat diakses oleh semua pemangku kepentingan."
+    - text:
+        'a. Prinsip edukatif merupakan penilaian yang memotivasi mahasiswa agar mampu
+        memperbaiki perencanaan dan cara belajar dan meraih capaian pembelajaran
+        lulusan.
+        b. Prinsip otentik merupakan penilaian yang berorientasi pada proses belajar yang
+        berkesinambungan dan hasil belajar yang mencerminkan kemampuan
+        mahasiswa pada saat proses pembelajaran berlangsung.
+        c. Prinsip objektif merupakan penilaian yang didasarkan pada standar yang
+        disepakati antara dosen dan mahasiswa serta bebas dari pengaruh subjektivitas
+        penilai dan yang dinilai.
+        d. Prinsip akuntabel merupakan penilaian yang dilaksanakan sesuai dengan
+        prosedur dan kriteria yang jelas, disepakati pada awal kuliah, dan dipahami oleh
+        mahasiswa.
+        e. Prinsip transparan merupakan penilaian yang prosedur dan hasil penilaiannya
+        dapat diakses oleh semua pemangku kepentingan.'
 
   utter_tanya/tanya_pemberian_umpan_balik:
-  - text: "Pemberian umpan balik kepada mahasiswa disampaikan kepada mahasiswa untuk
-setiap tahap penilaian pembelajaran selambat-lambatnya 2 (dua) minggu sejak
-penilaian dilakukan (kuis, ujian, pengumpulan tugas dan bentuk penilaian lain),
-melalui antara lain:
-a. pengembalian lembar atau kertas atau hasil kerja mahasiswa kepada
-mahasiswa yang bersangkutan setelah dinilai dan diberi umpan balik;
-b. pembahasan kunci jawaban atau rubrik instrumen penilaian; dan atau
-c. metode/cara lain yang dapat digunakan dosen untuk menyampaikan umpan
-balik kepada mahasiswa."
+    - text:
+        'Pemberian umpan balik kepada mahasiswa disampaikan kepada mahasiswa untuk
+        setiap tahap penilaian pembelajaran selambat-lambatnya 2 (dua) minggu sejak
+        penilaian dilakukan (kuis, ujian, pengumpulan tugas dan bentuk penilaian lain),
+        melalui antara lain:
+        a. pengembalian lembar atau kertas atau hasil kerja mahasiswa kepada
+        mahasiswa yang bersangkutan setelah dinilai dan diberi umpan balik;
+        b. pembahasan kunci jawaban atau rubrik instrumen penilaian; dan atau
+        c. metode/cara lain yang dapat digunakan dosen untuk menyampaikan umpan
+        balik kepada mahasiswa.'
 
   utter_tanya/tanya_instrumen_penilaian:
-  - text: "Instrumen penilaian dibedakan sesuai tujuan penilaian proses atau penilaian hasil
-belajar. Instrumen penilaian ditetapkan oleh dosen pengampu mata kuliah.
-Instrumen penilaian dilengkapi rubrik penilaian yang berisi kriteria yang digunakan
-untuk menilai/menjustifikasi kualitas kinerja, kunci jawaban jika instrumen penilaian
-berupa pertanyaan tertulis atau lisan."
+    - text:
+        'Instrumen penilaian dibedakan sesuai tujuan penilaian proses atau penilaian hasil
+        belajar. Instrumen penilaian ditetapkan oleh dosen pengampu mata kuliah.
+        Instrumen penilaian dilengkapi rubrik penilaian yang berisi kriteria yang digunakan
+        untuk menilai/menjustifikasi kualitas kinerja, kunci jawaban jika instrumen penilaian
+        berupa pertanyaan tertulis atau lisan.'
 
   utter_tanya/tanya_apa_saja_instrumen_penilaian:
-  - text: "Instrumen penilaian dapat berbentuk antara lain:
-a. pertanyaan tertulis atau lisan,
-b. daftar unjuk kerja (demonstration checklist),
-c. daftar tugas yang harus dilakukan/ditunjukkan mahasiswa untuk membuktikan
-pencapaian pembelajarannya
-d. penugasan proyek/studi kasus, portofolio, atau karya rancangan; dan
-e. kerangka bukti-bukti yang akan diambil/dilihat/dikumpulkan dari mahasiswa yang
-dinilai."
+    - text: 'Instrumen penilaian dapat berbentuk antara lain:
+        a. pertanyaan tertulis atau lisan,
+        b. daftar unjuk kerja (demonstration checklist),
+        c. daftar tugas yang harus dilakukan/ditunjukkan mahasiswa untuk membuktikan
+        pencapaian pembelajarannya
+        d. penugasan proyek/studi kasus, portofolio, atau karya rancangan; dan
+        e. kerangka bukti-bukti yang akan diambil/dilihat/dikumpulkan dari mahasiswa yang
+        dinilai.'
 
   utter_tanya/tanya_teknik_penilaian:
-  - text: "Teknik penilaian antara lain observasi (termasuk penilaian sikap), partisipasi, unjuk
-kerja, tes tertulis, tes lisan, dan angket. Teknik penilaian secara lengkap dapat
-dilihat pada Pedoman Kurikulum Universitas Sriwijaya tahun 2020. Hasil akhir
-penilaian merupakan integrasi antara berbagai teknik dan instumen peenilaian yang
-digunakan. Beberapa Teknik penilaian yang umum dilakukan antara lain:
-a. Penilaian sikap dapat menggunakan teknik penilaian observasi;
-b. Penilaian penguasaan pengetahuan, ketrampilan umum dan khusus dilakukan
-dengan memilih satu atau kombinasi dari berbagai teknik dan instrumen
-penilaian."
+    - text:
+        'Teknik penilaian antara lain observasi (termasuk penilaian sikap), partisipasi, unjuk
+        kerja, tes tertulis, tes lisan, dan angket. Teknik penilaian secara lengkap dapat
+        dilihat pada Pedoman Kurikulum Universitas Sriwijaya tahun 2020. Hasil akhir
+        penilaian merupakan integrasi antara berbagai teknik dan instumen peenilaian yang
+        digunakan. Beberapa Teknik penilaian yang umum dilakukan antara lain:
+        a. Penilaian sikap dapat menggunakan teknik penilaian observasi;
+        b. Penilaian penguasaan pengetahuan, ketrampilan umum dan khusus dilakukan
+        dengan memilih satu atau kombinasi dari berbagai teknik dan instrumen
+        penilaian.'
 
   utter_tanya/tanya_mekanisme_penilaian:
-  - text: "Mekanisme penilaian diawali dengan penyusunan tahap, teknik, instrumen,
-kriteria/indikator, dan bobot penilaian. Hal-hal ini disampaikan kepada mahasiswa
-pada awal perkuliahan.
-Prosedur penilaian terdiri dari: a) perencanaan, b) kegiatan pemberian tugas atau
-soal, observasi kinerja, pengembalian hasil observasi, dan c) pemberian nilai akhir,
-yang dapat dilakukan melalu penilaian bertahap dan/atau penilaian ulang.
-Pelaksanaan penilaian dilakukan secara berkala sesuai RPS (Rencana
-Pembelajaran Semester). Penilaian dilaksanakan oleh dosen pengampu; dosen
-pengampu dengan mengikutsertakan mahasiswa; atau dosen pengampu dengan
-mengikutsertakan penilai eksternal atau pemangku kepentingan yang relevan.
-Dosen dapat melakukan penilaian proses tanpa pemberitahuan sebelumnya
-kepada mahasiswa, namun dosen menyampaikan waktu pelaksanaan evaluasi
-hasil pembelajaran kepada mahasiswa, selambat-lambatnya 1 (satu) minggu
-sebelum penilaian dilakukan.
-Setelah penilaian dilaksanakan, dosen memberikan umpan balik dan kesempatan
-kepada mahasiswa untuk mendiskusikan hasil penilaian dengan dosen penilai.
-Hasil penilaian belajar mahasiswa dicatat dan didokumentasikan secara tertib
-sesuai ketentuan pendokumentasian hasil penilaian."
+    - text:
+        'Mekanisme penilaian diawali dengan penyusunan tahap, teknik, instrumen,
+        kriteria/indikator, dan bobot penilaian. Hal-hal ini disampaikan kepada mahasiswa
+        pada awal perkuliahan.
+        Prosedur penilaian terdiri dari: a) perencanaan, b) kegiatan pemberian tugas atau
+        soal, observasi kinerja, pengembalian hasil observasi, dan c) pemberian nilai akhir,
+        yang dapat dilakukan melalu penilaian bertahap dan/atau penilaian ulang.
+        Pelaksanaan penilaian dilakukan secara berkala sesuai RPS (Rencana
+        Pembelajaran Semester). Penilaian dilaksanakan oleh dosen pengampu; dosen
+        pengampu dengan mengikutsertakan mahasiswa; atau dosen pengampu dengan
+        mengikutsertakan penilai eksternal atau pemangku kepentingan yang relevan.
+        Dosen dapat melakukan penilaian proses tanpa pemberitahuan sebelumnya
+        kepada mahasiswa, namun dosen menyampaikan waktu pelaksanaan evaluasi
+        hasil pembelajaran kepada mahasiswa, selambat-lambatnya 1 (satu) minggu
+        sebelum penilaian dilakukan.
+        Setelah penilaian dilaksanakan, dosen memberikan umpan balik dan kesempatan
+        kepada mahasiswa untuk mendiskusikan hasil penilaian dengan dosen penilai.
+        Hasil penilaian belajar mahasiswa dicatat dan didokumentasikan secara tertib
+        sesuai ketentuan pendokumentasian hasil penilaian.'
 
   utter_tanya/tanya_sistem_penilian:
-  - text: "Penilaian pembelajaran mencakup penilaian proses dan hasil belajar. Tidak
-diperkenankan menilai hanya pada akhir perkuliahan.
-Penilaian pembelajaran di Universitas Sriwijaya menggunakan angka dalam skala 0
-(nol) hingga 100 (seratus) dengan dua desimal di belakang koma jika diperlukan.
-Proporsi (pembobotan) nilai setiap komponen/tahap penilaian terhadap nilai
-akhir ditetapkan oleh dosen pengampu mata kuliah, berdasarkan distribusi
-beban/materi serta cakupan kompetensi yang dinilai."
+    - text:
+        'Penilaian pembelajaran mencakup penilaian proses dan hasil belajar. Tidak
+        diperkenankan menilai hanya pada akhir perkuliahan.
+        Penilaian pembelajaran di Universitas Sriwijaya menggunakan angka dalam skala 0
+        (nol) hingga 100 (seratus) dengan dua desimal di belakang koma jika diperlukan.
+        Proporsi (pembobotan) nilai setiap komponen/tahap penilaian terhadap nilai
+        akhir ditetapkan oleh dosen pengampu mata kuliah, berdasarkan distribusi
+        beban/materi serta cakupan kompetensi yang dinilai.'
 
   utter_tanya/tanya_pengulangan_mata_kuliah:
-  - text: "Ketentuan perbaikan nilai melalui pengulangan mata kuliah adalah sebagai berikut:
-1. Mahasiswa yang ingin mengulang mata kuliah harus mengikuti kembali semua
-kegiatan pembelajaran mata kuliah bersangkutan, termasuk praktikum jika mata
-kuliah tersebut ada pembelajaran praktikum, atau dapat menggunakan nilai
-praktikum yang lampau jika mata kuliah pada prodi tersebut membolehkan untuk
-itu.
-2. Mahasiswa mencantumkan mata kuliah yang diulang tersebut dalam
-KSM/KPSM semester yang ditempuh, dan atas persetujuan dosen PA.
-3. Nilai mata kuliah yang berlaku adalah nilai tertinggi yang pernah dicapai pada
-mata kuliah tersebut."
+    - text:
+        'Ketentuan perbaikan nilai melalui pengulangan mata kuliah adalah sebagai berikut:
+        1. Mahasiswa yang ingin mengulang mata kuliah harus mengikuti kembali semua
+        kegiatan pembelajaran mata kuliah bersangkutan, termasuk praktikum jika mata
+        kuliah tersebut ada pembelajaran praktikum, atau dapat menggunakan nilai
+        praktikum yang lampau jika mata kuliah pada prodi tersebut membolehkan untuk
+        itu.
+        2. Mahasiswa mencantumkan mata kuliah yang diulang tersebut dalam
+        KSM/KPSM semester yang ditempuh, dan atas persetujuan dosen PA.
+        3. Nilai mata kuliah yang berlaku adalah nilai tertinggi yang pernah dicapai pada
+        mata kuliah tersebut.'
 
   utter_tanya/tanya_perbaikan_nilai:
-  - text: "Ketentuan perbaikan nilai mata kuliah atau remedial adalah sebagai berikut:
-1. Perbaikan nilai dilakukan sebelum semester berjalan berakhir.
-2. Jika perbaikan nilai ingin dilakukan pada akhir perkuliahan, mahasiswa harus
-memenuhi persyaratan tugas, mengikuti ujian/kuis, dan mengikuti kuliah dengan
-kehadiran minimal 80%.
-3. Jika mahasiswa tidak mengikuti penilaian kuis/ujian/tugas pada waktu yang
-ditetapkan, penilaian susulan (ujian/kuis/tugas susulan) dapat diikuti oleh
-mahasiswa yang memiliki surat keterangan berhalangan hadir saat penilaian
-seperti surat keterangan sakit rawat inap mahasiswa yang bersangkutan, atau
-salinan surat kematian dari keluarga inti (ayah/ibu/wali, kakak/adik kandung),
-atau surat tugas dari Fakultas/Universitas melaksanakan kegiatan di luar
-kampus;
-4. Jika perbaikan nilai dilakukan untuk suatu kuis/ujian/tugas, mahasiswa meminta
-perbaikan kepada dosen mata kuliah setelah umpan balik penilaian diberikan
-dosen dan waktu penilaian untuk perbaikan ditetapkan dosen penilai; dan
-5. Apabila mahasiswa mengalami kendala/hambatan berkepanjangan untuk
-mengikuti kuliah, seperti karena sakit atau musibah lain, perbaikan penilaian
-melalui proses remedial bagi mahasiswa yang bersangkutan ditetapkan oleh
-pengampu mata kuliah dan dilaporkan ke Koordinator Program Studi."
+    - text:
+        'Ketentuan perbaikan nilai mata kuliah atau remedial adalah sebagai berikut:
+        1. Perbaikan nilai dilakukan sebelum semester berjalan berakhir.
+        2. Jika perbaikan nilai ingin dilakukan pada akhir perkuliahan, mahasiswa harus
+        memenuhi persyaratan tugas, mengikuti ujian/kuis, dan mengikuti kuliah dengan
+        kehadiran minimal 80%.
+        3. Jika mahasiswa tidak mengikuti penilaian kuis/ujian/tugas pada waktu yang
+        ditetapkan, penilaian susulan (ujian/kuis/tugas susulan) dapat diikuti oleh
+        mahasiswa yang memiliki surat keterangan berhalangan hadir saat penilaian
+        seperti surat keterangan sakit rawat inap mahasiswa yang bersangkutan, atau
+        salinan surat kematian dari keluarga inti (ayah/ibu/wali, kakak/adik kandung),
+        atau surat tugas dari Fakultas/Universitas melaksanakan kegiatan di luar
+        kampus;
+        4. Jika perbaikan nilai dilakukan untuk suatu kuis/ujian/tugas, mahasiswa meminta
+        perbaikan kepada dosen mata kuliah setelah umpan balik penilaian diberikan
+        dosen dan waktu penilaian untuk perbaikan ditetapkan dosen penilai; dan
+        5. Apabila mahasiswa mengalami kendala/hambatan berkepanjangan untuk
+        mengikuti kuliah, seperti karena sakit atau musibah lain, perbaikan penilaian
+        melalui proses remedial bagi mahasiswa yang bersangkutan ditetapkan oleh
+        pengampu mata kuliah dan dilaporkan ke Koordinator Program Studi.'
 
   utter_tanya/tanya_transfer_nilai_dan_pengakuan_kredit_pindahan:
-  - text: Mahasiswa Universitas Sriwijaya yang berasal dari mahasiswa pindahan dapat mengajukan transfer nilai mata kuliah yang telah diambilnya dari program studi/perguruan tinggi asal. Usulan transfer nilai diajukan kepada Rektor melalui Fakultas/Program serta dengan mengikuti ketentuan akademik pada masingmasing Fakultas/Program. Transfer nilai dan atau pengakuan kredit ditetapkan Rektor dengan mempertimbangkan keselarasan capaian pembelajaran mata kuliah (CPMK) dari program studi asal dengan CPMK di prodi tujuan. Pertimbangan keselarasan CPMK dari prodi asal dengan CPMK di prodi tujuan melibatkan koordinator program studi dan dekan fakultas/direktur program pascasarjana tujuan.
-  utter_tanya/tanya_transfer_nilai_dan_pengakuan_kredit_unsri:
-  - text: "Pengakuan kredit mata kuliah yang diambil di luar Universitas Sriwijaya oleh
-mahasiswa Universitas Sriwijaya yang melaksanakan program pertukaran
-mahasiswa, kemitraan, atau Merdeka Belajar dapat dilakukan apabila mahasiswa
-mengambil mata kuliah itu pada masa pembelajaran semester, secara melembaga
-atas izin dosen PA, Fakultas, atau diketahui Universitas Sriwijaya, dan dilakukan di
-perguruan tinggi yang telah mempunyai perjanjian kerjasama dengan Universitas
-Sriwijaya.
-Nilai mata kuliah yang diambil di luar Universitas Sriwijaya, apabila tidak
-menggunakan kategori dan ketentuan nilai sesuai Peraturan Rektor Universitas
-Sriwijaya Nomor 5 Tahun 2020 tentang Standar Pendidikan Universitas Sriwijaya
-seperti yang dinyatakan pada Tabel 3.4., nilai mata kuliah tersebut akan dikonversi
-ke aturan penilaian Universitas Sriwijaya oleh Dekan/Direktur sesuai
-kewenangannya, dan diusulkan ke Rektor. Penetapan nilai mata kuliah dimaksud
-ditetapkan dalam Surat Keputusan Rektor."
+    - text: Mahasiswa Universitas Sriwijaya yang berasal dari mahasiswa pindahan dapat mengajukan transfer nilai mata kuliah yang telah diambilnya dari program studi/perguruan tinggi asal. Usulan transfer nilai diajukan kepada Rektor melalui Fakultas/Program serta dengan mengikuti ketentuan akademik pada masingmasing Fakultas/Program. Transfer nilai dan atau pengakuan kredit ditetapkan Rektor dengan mempertimbangkan keselarasan capaian pembelajaran mata kuliah (CPMK) dari program studi asal dengan CPMK di prodi tujuan. Pertimbangan keselarasan CPMK dari prodi asal dengan CPMK di prodi tujuan melibatkan koordinator program studi dan dekan fakultas/direktur program pascasarjana tujuan.
 
+  utter_tanya/tanya_transfer_nilai_dan_pengakuan_kredit_unsri:
+    - text:
+        'Pengakuan kredit mata kuliah yang diambil di luar Universitas Sriwijaya oleh
+        mahasiswa Universitas Sriwijaya yang melaksanakan program pertukaran
+        mahasiswa, kemitraan, atau Merdeka Belajar dapat dilakukan apabila mahasiswa
+        mengambil mata kuliah itu pada masa pembelajaran semester, secara melembaga
+        atas izin dosen PA, Fakultas, atau diketahui Universitas Sriwijaya, dan dilakukan di
+        perguruan tinggi yang telah mempunyai perjanjian kerjasama dengan Universitas
+        Sriwijaya.
+        Nilai mata kuliah yang diambil di luar Universitas Sriwijaya, apabila tidak
+        menggunakan kategori dan ketentuan nilai sesuai Peraturan Rektor Universitas
+        Sriwijaya Nomor 5 Tahun 2020 tentang Standar Pendidikan Universitas Sriwijaya
+        seperti yang dinyatakan pada Tabel 3.4., nilai mata kuliah tersebut akan dikonversi
+        ke aturan penilaian Universitas Sriwijaya oleh Dekan/Direktur sesuai
+        kewenangannya, dan diusulkan ke Rektor. Penetapan nilai mata kuliah dimaksud
+        ditetapkan dalam Surat Keputusan Rektor.'
   utter_tanya/tanya_ips_dan_ipk:
-  - text: "kosong"
+    - text: 'kosong'
 
   utter_tanya/tanya_evaluasi_akademik:
-  - text: "kosong"
-  
+    - text: 'kosong'
+
   utter_tanya/tanya_ketentuan_nilai_bahasa_inggris:
-  - text: "1. Mahasiswa Universitas Sriwijaya diwajibkan memenuhi ketentuan nilai tes
-Bahasa Inggris. Tes bahasa Inggris yang diakui nilainya adalah nilai test yang
-diselenggarakan oleh Universitas Sriwijaya, atau dari Official TOEFL Score yang
-diselenggarakan oleh Princeton, Amerika Serikat; IELTS yang diselenggarakan
-British Council, Inggris dan telah diverifikasi oleh Universitas Sriwijaya.
-2. Mahasiswa yang pernah mendapat ijazah pendidikan bergelar dari negara lain
-berbahasa pengantar Bahasa Inggris, atau pernah mempublikasikan karya
-ilmiah dalam Bahasa Inggris sebagai penulis pertama dalam 3 (tiga) tahun
-terakhir sebelum memulai pendidikan di Universitas Sriwijaya, dibebaskan dari
-ketentuan pada angka 1 di atas.
-3. Test Bahasa Inggris Universitas Sriwijaya adalah test Bahasa Inggris yang
-dilaksanakan oleh Tim Pengelola Pengujian Universitas Sriwijaya yang dibentuk
-berdasarkan Surat Keputusan Rektor Universitas Sriwijaya.
-4. Test Bahasa Inggris Universitas Sriwijaya WAJIB diambil oleh mahasiswa sejak
-terdaftar di Universitas Sriwijaya hingga mencapai skor nilai yang telah
-ditetapkan untuk masing-masing prodi sebelum dinyatakan lulus dari Universitas
-Sriwijaya.
-5. Mahasiswa tidak diperkenankan mengikuti yudisium apabila belum memenuhi
-persyaratan skor minimum Test Bahasa Inggris yang telah ditentukan.
-6. Nilai minimal test Bahasa Inggris yang dipersyaratkan oleh masing-masing
-program studi seperti tertera pada Tabel 3.7.
-7. Ketentuan lain mengenai penguasaan Bahasa Inggris mahasiswa akan
-ditetapkan dalam surat keputusan Rektor."
+    - text:
+        '1. Mahasiswa Universitas Sriwijaya diwajibkan memenuhi ketentuan nilai tes
+        Bahasa Inggris. Tes bahasa Inggris yang diakui nilainya adalah nilai test yang
+        diselenggarakan oleh Universitas Sriwijaya, atau dari Official TOEFL Score yang
+        diselenggarakan oleh Princeton, Amerika Serikat; IELTS yang diselenggarakan
+        British Council, Inggris dan telah diverifikasi oleh Universitas Sriwijaya.
+        2. Mahasiswa yang pernah mendapat ijazah pendidikan bergelar dari negara lain
+        berbahasa pengantar Bahasa Inggris, atau pernah mempublikasikan karya
+        ilmiah dalam Bahasa Inggris sebagai penulis pertama dalam 3 (tiga) tahun
+        terakhir sebelum memulai pendidikan di Universitas Sriwijaya, dibebaskan dari
+        ketentuan pada angka 1 di atas.
+        3. Test Bahasa Inggris Universitas Sriwijaya adalah test Bahasa Inggris yang
+        dilaksanakan oleh Tim Pengelola Pengujian Universitas Sriwijaya yang dibentuk
+        berdasarkan Surat Keputusan Rektor Universitas Sriwijaya.
+        4. Test Bahasa Inggris Universitas Sriwijaya WAJIB diambil oleh mahasiswa sejak
+        terdaftar di Universitas Sriwijaya hingga mencapai skor nilai yang telah
+        ditetapkan untuk masing-masing prodi sebelum dinyatakan lulus dari Universitas
+        Sriwijaya.
+        5. Mahasiswa tidak diperkenankan mengikuti yudisium apabila belum memenuhi
+        persyaratan skor minimum Test Bahasa Inggris yang telah ditentukan.
+        6. Nilai minimal test Bahasa Inggris yang dipersyaratkan oleh masing-masing
+        program studi seperti tertera pada Tabel 3.7.
+        7. Ketentuan lain mengenai penguasaan Bahasa Inggris mahasiswa akan
+        ditetapkan dalam surat keputusan Rektor.'
 
   utter_tanya/tanya_suliet_fakultas_ekonomi:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ekonomi:
-  Diploma Tiga
-  1. Akuntansi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Kesekretariatan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Sarjana
-  1. Manajemen
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Ekonomi Pembangunan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Akuntansi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Ilmu Ekonomi
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Ilmu Manajemen
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  3. Magister Manajemen
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 4
-  Doktor
-  1. Ilmu Ekonomi
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  2. Ilmu Manajemen
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5"
-     
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ekonomi:
+        Diploma Tiga
+        1. Akuntansi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Kesekretariatan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Sarjana
+        1. Manajemen
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Ekonomi Pembangunan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Akuntansi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Ilmu Ekonomi
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Ilmu Manajemen
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        3. Magister Manajemen
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 4
+        Doktor
+        1. Ilmu Ekonomi
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        2. Ilmu Manajemen
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5'
+
   utter_tanya/tanya_suliet_fakultas_hukum:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas hukum:
-  Sarjana
-  1. Ilmu Hukum
-     Test Unsri: 425
-     TOEFL: 425
-     IELTS: 3,5
-  Magister
-  1. Ilmu Hukum
-     Test Unsri: 425
-     TOEFL: 425
-     IELTS: 3,5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-  2. Kenotariatan
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  Doktor
-  1. Ilmu Hukum
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-     
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas hukum:
+        Sarjana
+        1. Ilmu Hukum
+        Test Unsri: 425
+        TOEFL: 425
+        IELTS: 3,5
+        Magister
+        1. Ilmu Hukum
+        Test Unsri: 425
+        TOEFL: 425
+        IELTS: 3,5
+        2. Kenotariatan
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        Doktor
+        1. Ilmu Hukum
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fakultas_teknik:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas teknik:
-  Diploma
-  Sarjana
-  1. Teknik Sipil
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Teknik Pertambangan
-     Test Unsri: 425
-     TOEFL: 425
-     IELTS: 3,5
-  3. Teknik Kimia
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  4. Teknik Mesin
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  5. Teknik Elektro
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  6. Arsitektur
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  7. Teknik Geologi
-     Test Unsri: 425
-     TOEFL: 425
-     IELTS: 3,5
-  Magister
-  1. Teknik Kimia
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Teknik Sipil
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  3. Teknik Pertambangan
-     Test Unsri: 425
-     TOEFL: 425
-     IELTS: 3,5
-  4. Teknik Mesin
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Ilmu Teknik
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-     
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas teknik:
+        Diploma
+        Sarjana
+        1. Teknik Sipil
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Teknik Pertambangan
+        Test Unsri: 425
+        TOEFL: 425
+        IELTS: 3,5
+        3. Teknik Kimia
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        4. Teknik Mesin
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        5. Teknik Elektro
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        6. Arsitektur
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        7. Teknik Geologi
+        Test Unsri: 425
+        TOEFL: 425
+        IELTS: 3,5
+        Magister
+        1. Teknik Kimia
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Teknik Sipil
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        3. Teknik Pertambangan
+        Test Unsri: 425
+        TOEFL: 425
+        IELTS: 3,5
+        4. Teknik Mesin
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Ilmu Teknik
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fakultas_kedokteran:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kedokteran:
-  Sarjana
-  1. Ilmu Keperawatan
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Pend. Dokter
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  3. Pend. Dokter Gigi
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  4. Psikologi
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Magister
-  1. Biomedik
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Sains Biomedik
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"  
-     
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kedokteran:
+        Sarjana
+        1. Ilmu Keperawatan
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Pend. Dokter
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        3. Pend. Dokter Gigi
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        4. Psikologi
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Magister
+        1. Biomedik
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Sains Biomedik
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fakultas_pertanian:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas pertanian:
-  Sarjana
-  1. Agribisnis
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Proteksi Tanaman
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Teknik Pertanian
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  4. Teknologi Hasil Pertanian
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  5. Peternakan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  6. Budidaya Perairan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  7. Teknologi Hasil Perikanan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  8. Agronomi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  9. Ilmu Tanah
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  10. Agroekoteknologi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Ilmu Tanaman
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Agribisnis
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Ilmu Pertanian
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas pertanian:
+        Sarjana
+        1. Agribisnis
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Proteksi Tanaman
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Teknik Pertanian
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        4. Teknologi Hasil Pertanian
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        5. Peternakan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        6. Budidaya Perairan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        7. Teknologi Hasil Perikanan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        8. Agronomi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        9. Ilmu Tanah
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        10. Agroekoteknologi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Ilmu Tanaman
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Agribisnis
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Ilmu Pertanian
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fkip:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas keguruan dan ilmu pendidikan:
-  Sarjana
-  1. Pend. Bahasa Inggris
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  2. Pend. Bahasa Indonesia
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. PPKN
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  4. Pend. Sejarah
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  5. Pend. Ekonomi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  6. Bimbingan Konseling
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  7. Pend Teknik Mesin
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  8. Pend. Matematika
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  9. Pend. Fisika
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  10. Pend. Kimia
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  11. Pend. Biologi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  12. PGSD
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  8. PAUD
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  9. Penjaskes
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  10. Pend. Masyarakat
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Pend. Bahasa
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Pend. Bahasa (Bahasa Inggris)
-     Test Unsri: 525
-     TOEFL: 525
-     IELTS: 5,5
-  3. Pend. Matematika
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  4. Pend. Fisika
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  5. Teknologi Pendidikan
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  6. Pendidikan Olahraga
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Pendidikan Matematika
-     Test Unsri: 475
-     TOEFL: 475
-     IELTS: 4,5"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas keguruan dan ilmu pendidikan:
+        Sarjana
+        1. Pend. Bahasa Inggris
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        2. Pend. Bahasa Indonesia
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. PPKN
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        4. Pend. Sejarah
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        5. Pend. Ekonomi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        6. Bimbingan Konseling
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        7. Pend Teknik Mesin
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        8. Pend. Matematika
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        9. Pend. Fisika
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        10. Pend. Kimia
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        11. Pend. Biologi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        12. PGSD
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        8. PAUD
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        9. Penjaskes
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        10. Pend. Masyarakat
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Pend. Bahasa
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Pend. Bahasa (Bahasa Inggris)
+        Test Unsri: 525
+        TOEFL: 525
+        IELTS: 5,5
+        3. Pend. Matematika
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        4. Pend. Fisika
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        5. Teknologi Pendidikan
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        6. Pendidikan Olahraga
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Pendidikan Matematika
+        Test Unsri: 475
+        TOEFL: 475
+        IELTS: 4,5'
+
   utter_tanya/tanya_suliet_fisip:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu sosial dan ilmu politik:
-  Sarjana
-  1. Ilmu Administrasi Publik
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Sosiologi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Hubungan Internasional
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  4. Ilmu Komunikasi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Magister Administrasi Publik
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Sosiologi
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Administrasi Publik
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu sosial dan ilmu politik:
+        Sarjana
+        1. Ilmu Administrasi Publik
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Sosiologi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Hubungan Internasional
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        4. Ilmu Komunikasi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Magister Administrasi Publik
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Sosiologi
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Administrasi Publik
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fakultas_mipa:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas mipa:
-  Sarjana
-  1. Matematika
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Fisika
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Kimia
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  4. Biologi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  5. Farmasi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  6. Ilmu Kelautan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Fisika
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Kimia
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  3. Biologi
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. MIPA
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas mipa:
+        Sarjana
+        1. Matematika
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Fisika
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Kimia
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        4. Biologi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        5. Farmasi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        6. Ilmu Kelautan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Fisika
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Kimia
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        3. Biologi
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. MIPA
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_fasilkom:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu komputer:
-  Sarjana
-  1. Komputerisasi Akuntansi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Manajemen Informatika
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Teknik Komputer
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  4. Sistem Komputer
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  5. Sistem Informasi
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  6. Teknik Informatika
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5
-  Magister
-  1. Magister Ilmu Komputer
-     Test Unsri: 500
-     TOEFL: 500
-     IELTS: 5"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas ilmu komputer:
+        Sarjana
+        1. Komputerisasi Akuntansi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Manajemen Informatika
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Teknik Komputer
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        4. Sistem Komputer
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        5. Sistem Informasi
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        6. Teknik Informatika
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5
+        Magister
+        1. Magister Ilmu Komputer
+        Test Unsri: 500
+        TOEFL: 500
+        IELTS: 5'
+
   utter_tanya/tanya_suliet_fkm:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kesehatan masyarakat:
-  Sarjana
-  1. Ilmu Kesehatan Masyarakat
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  2. Ilmu Gizi
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  3. Kesehatan Lingkungan
-     Test Unsri: 400
-     TOEFL: 400
-     IELTS: 3
-  Magister
-  1. Ilmu Kesehatan Masyarakat
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-  
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di fakultas kesehatan masyarakat:
+        Sarjana
+        1. Ilmu Kesehatan Masyarakat
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        2. Ilmu Gizi
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        3. Kesehatan Lingkungan
+        Test Unsri: 400
+        TOEFL: 400
+        IELTS: 3
+        Magister
+        1. Ilmu Kesehatan Masyarakat
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_suliet_pps:
-  - text: "Berikut standar nilai bahasa inggris untuk setiap jurusan di program pasca sarjana:
-  Magister
-  1. Pengelolaan Lingkungan
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  2. Kependudukan
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4
-  Doktor
-  1. Ilmu Lingkungan
-     Test Unsri: 450
-     TOEFL: 450
-     IELTS: 4"
-     
+    - text:
+        'Berikut standar nilai bahasa inggris untuk setiap jurusan di program pasca sarjana:
+        Magister
+        1. Pengelolaan Lingkungan
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        2. Kependudukan
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4
+        Doktor
+        1. Ilmu Lingkungan
+        Test Unsri: 450
+        TOEFL: 450
+        IELTS: 4'
+
   utter_tanya/tanya_kriteria_putus_studi_program_diploma:
-  - text: "Mahasiswa Program Diploma dinyatakan putus studi (drop out) apabila memenuhi satu
-atau lebih kriteria berikut:
-1. Pada akhir tahun pertama mengumpulkan kredit kurang dari 27 sks;
-2. pada akhir tahun pertama mengumpulkan kredit sebanyak ≥ 27 sks tetapi IPK yang
-dicapai < 2,00;
-3. setelah menempuh 8 semester, yang bersangkutan tidak mampu mengumpulkan 108 sks;
-4. pada semester 7 telah mengumpulkan sks sesuai dengan yang disyaratkan akan tetapi
-mempunyai IPK < 2,00 atau mempunyai nilai E atau memiliki nilai D > 10% dari 108 sks;
-atau
-5. tidak membayar UKT tiap semester sampai batas waktu yang telah ditentukan dan tidak
-mengajukan SO."
+    - text:
+        'Mahasiswa Program Diploma dinyatakan putus studi (drop out) apabila memenuhi satu
+        atau lebih kriteria berikut:
+        1. Pada akhir tahun pertama mengumpulkan kredit kurang dari 27 sks;
+        2. pada akhir tahun pertama mengumpulkan kredit sebanyak ≥ 27 sks tetapi IPK yang
+        dicapai < 2,00;
+        3. setelah menempuh 8 semester, yang bersangkutan tidak mampu mengumpulkan 108 sks;
+        4. pada semester 7 telah mengumpulkan sks sesuai dengan yang disyaratkan akan tetapi
+        mempunyai IPK < 2,00 atau mempunyai nilai E atau memiliki nilai D > 10% dari 108 sks;
+        atau
+        5. tidak membayar UKT tiap semester sampai batas waktu yang telah ditentukan dan tidak
+        mengajukan SO.'
 
   utter_tanya/tanya_kriteria_putus_studi_program_sarjana:
-  - text: "Mahasiswa Program Sarjana dinyatakan putus studi (drop out) apabila memenuhi satu atau
-lebih kriteria berikut:
-1. Pada akhir tahun kedua mengumpulkan kredit kurang dari 52 sks dan atau IPK yang
-dicapai < 2,00;
-2. setelah menempuh 10 semester, yang bersangkutan tidak mampu mengumpulkan kredit
-144 sks;
-3. pada masa studi 10 semester telah mengumpulkan sks sesuai dengan yang disyaratkan
-akan tetapi mempunyai nilai E atau memiliki nilai D > 10% total dari 144 sks; atau
-4. tidak membayar UKT tiap semester sampai batas waktu yang telah ditentukan dan tidak
-mengajukan SO."
+    - text:
+        'Mahasiswa Program Sarjana dinyatakan putus studi (drop out) apabila memenuhi satu atau
+        lebih kriteria berikut:
+        1. Pada akhir tahun kedua mengumpulkan kredit kurang dari 52 sks dan atau IPK yang
+        dicapai < 2,00;
+        2. setelah menempuh 10 semester, yang bersangkutan tidak mampu mengumpulkan kredit
+        144 sks;
+        3. pada masa studi 10 semester telah mengumpulkan sks sesuai dengan yang disyaratkan
+        akan tetapi mempunyai nilai E atau memiliki nilai D > 10% total dari 144 sks; atau
+        4. tidak membayar UKT tiap semester sampai batas waktu yang telah ditentukan dan tidak
+        mengajukan SO.'
 
   utter_tanya/tanya_kriteria_putus_studi_program_magister:
-  - text: "Mahasiswa Program Magister dinyatakan putus studi (drop out) apabila memenuhi satu
-atau lebih kriteria berikut:
-1. Pada akhir semester dua mengumpulkan kredit kurang dari 18 sks dan/atau mempunyai
-IPK < 2,76; atau
-2. pada akhir semester tiga belum melaksanakan ujian proposal; atau
-3. pada akhir semester empat tidak dapat mengumpulkan kredit sebesar 36 sks dan/atau
-mempunyai IPK < 2,76 atau tidak lulus ujian proposal;
-4. setelah menempuh enam semester tidak dapat menunjukkan kemampuan untuk
-menyelesaikan tugas akhir/tesis; atau
-5. tidak membayar UKT semester sampai batas waktu yang telah ditentukan dan tidak
-mengajukan SO."
+    - text:
+        'Mahasiswa Program Magister dinyatakan putus studi (drop out) apabila memenuhi satu
+        atau lebih kriteria berikut:
+        1. Pada akhir semester dua mengumpulkan kredit kurang dari 18 sks dan/atau mempunyai
+        IPK < 2,76; atau
+        2. pada akhir semester tiga belum melaksanakan ujian proposal; atau
+        3. pada akhir semester empat tidak dapat mengumpulkan kredit sebesar 36 sks dan/atau
+        mempunyai IPK < 2,76 atau tidak lulus ujian proposal;
+        4. setelah menempuh enam semester tidak dapat menunjukkan kemampuan untuk
+        menyelesaikan tugas akhir/tesis; atau
+        5. tidak membayar UKT semester sampai batas waktu yang telah ditentukan dan tidak
+        mengajukan SO.'
 
   utter_tanya/tanya_kriteria_putus_studi_program_doktor:
-  - text: "Mahasiswa Program Doktor dinyatakan putus studi (drop out) apabila memenuhi satu atau
-lebih kriteria berikut:
-1. Apabila tidak memenuhi kewajiban akademik yang dipersyaratkan untuk program Doktor
-yang ditetapkan dengan Surat Keputusan Rektor. Secara rinci persyaratan, prosedur dan
-ketentuan akademik lainnya tentang program Doktor di lingkungan Universitas Sriwijaya
-dimuat dalam Buku Pedoman Akademik tersendiri; atau
-2. Tidak membayar UKT semester sampai batas waktu yang telah ditentukan dan tidak
-mengajukan SO."
+    - text:
+        'Mahasiswa Program Doktor dinyatakan putus studi (drop out) apabila memenuhi satu atau
+        lebih kriteria berikut:
+        1. Apabila tidak memenuhi kewajiban akademik yang dipersyaratkan untuk program Doktor
+        yang ditetapkan dengan Surat Keputusan Rektor. Secara rinci persyaratan, prosedur dan
+        ketentuan akademik lainnya tentang program Doktor di lingkungan Universitas Sriwijaya
+        dimuat dalam Buku Pedoman Akademik tersendiri; atau
+        2. Tidak membayar UKT semester sampai batas waktu yang telah ditentukan dan tidak
+        mengajukan SO.'
 
 session_config:
   session_expiration_time: 60
