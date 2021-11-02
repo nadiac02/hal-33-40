@@ -21,3 +21,4 @@ rules:
   steps:
   - intent: tanya
   - action: utter_tanya
+  - action: tanya_lagi
