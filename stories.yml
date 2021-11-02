@@ -1,126 +1,125 @@
 rules:
+  - rule:
+    steps:
+      - intent: greet
+      - action: utter_greet
 
-- rule : 
-  steps:
-    - intent: greet
-    - action: utter_greet
+  - rule:
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
 
-- rule : 
-  steps:
-    - intent: goodbye
-    - action: utter_goodbye
+  - rule:
+    steps:
+      - intent: affirm
+      - action:
 
-- rule : 
-  steps:
-    - intent: affirm
-    - action: 
+  - rule:
+    steps:
+      - intent: deny
+      - action:
 
-- rule : 
-  steps:
-    - intent: deny
-    - action: 
+  - rule:
+    steps:
+      - intent: mood_great
+      - action: utter_happy
 
-- rule : 
-  steps:
-    - intent: mood_great
-    - action: utter_happy
+  - rule:
+    steps:
+      - intent: mood_unhappy
+      - action: utter_cheer_up
 
-- rule : 
-  steps:
-    - intent: mood_unhappy
-    - action: utter_cheer_up
+  - rule:
+    steps:
+      - intent: bot_challenge
+      - action:
 
-- rule : 
-  steps:
-    - intent: bot_challenge
-    - action: 
+  - rule:
+    steps:
+      - intent: tanya_penilaian_pembelajaran
+      - action: utter_tanya_penilaian_pembelajaran
 
-- rule : 
-  steps:
-    - intent: tanya_penilaian_pembelajaran
-    - action: utter_tanya_penilaian_pembelajaran
+  - rule:
+    steps:
+      - intent: tanya_cakupan_penilaian_pembelajaran
+      - action: utter_tanya_cakupan_penilaian_pembelajaran
 
-- rule : 
-  steps:
-    - intent: tanya_cakupan_penilaian_pembelajaran
-    - action: utter_tanya_cakupan_penilaian_pembelajaran
+  - rule:
+    steps:
+      - intent: tanya_prinsip_penilaian
+      - action: utter_tanya_prinsip_penilaian
 
-- rule : 
-  steps:
-    - intent: tanya_prinsip_penilaian
-    - action: utter_tanya_prinsip_penilaian
+  - rule:
+    steps:
+      - intent: tanya_pemberian_umpan_balik
+      - action: utter_tanya_pemberian_umpan_balik
 
-- rule : 
-  steps:
-    - intent: tanya_pemberian_umpan_balik
-    - action: utter_tanya_pemberian_umpan_balik
+  - rule:
+    steps:
+      - intent: tanya_apa_saja_instrumen_penilaian
+      - action: utter_tanya_instrumen_penilaian
 
-- rule : 
-  steps:
-    - intent: tanya_apa_saja_instrumen_penilaian
-    - action: utter_tanya_instrumen_penilaian
+  - rule:
+    steps:
+      - intent: tanya_teknik_penilaian
+      - action: utter_tanya_teknik_penilaian
 
-- rule : 
-  steps:
-    - intent: tanya_teknik_penilaian
-    - action: utter_tanya_teknik_penilaian
+  - rule:
+    steps:
+      - intent: tanya_mekanisme_penilaian
+      - action: utter_tanya_mekanisme_penilaian
 
-- rule : 
-  steps:
-    - intent: tanya_mekanisme_penilaian
-    - action: utter_tanya_mekanisme_penilaian
+  - rule:
+    steps:
+      - intent: tanya_sistem_penilian
+      - action: utter_tanya_sistem_penilian
 
-- rule : 
-  steps:
-    - intent: tanya_sistem_penilian
-    - action: utter_tanya_sistem_penilian
+  - rule:
+    steps:
+      - intent: tanya_pengulangan_mata_kuliah
+      - action: utter_tanya_pengulangan_mata_kuliah
 
-- rule : 
-  steps:
-    - intent: tanya_pengulangan_mata_kuliah
-    - action: utter_tanya_pengulangan_mata_kuliah
+  - rule:
+    steps:
+      - intent: tanya_perbaikan_nilai
+      - action: utter_tanya_perbaikan_nilai
 
-- rule : 
-  steps:
-    - intent: tanya_perbaikan_nilai
-    - action: utter_tanya_perbaikan_nilai
+  - rule:
+    steps:
+      - intent: tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
+      - action: utter_tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
 
-- rule : 
-  steps:
-    - intent: tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
-    - action: utter_tanya_transfer_nilai_dan_pengakuan_kredit_pindahan
+  - rule:
+    steps:
+      - intent: tanya_transfer_nilai_dan_pengakuan_kredit_unsri
+      - action: utter_tanya_transfer_nilai_dan_pengakuan_kredit_unsri
 
-- rule : 
-  steps:
-    - intent: tanya_transfer_nilai_dan_pengakuan_kredit_unsri
-    - action: utter_tanya_transfer_nilai_dan_pengakuan_kredit_unsri
+  - rule:
+    steps:
+      - intent: tanya_ips_dan_ipk
+      - action: utter_tanya_ips_dan_ipk
 
-- rule : 
-  steps:
-    - intent: tanya_ips_dan_ipk
-    - action: utter_tanya_ips_dan_ipk
+  - rule:
+    steps:
+      - intent: tanya_evaluasi_akademik
+      - action: utter_tanya_evaluasi_akademik
 
-- rule : 
-  steps:
-    - intent: tanya_evaluasi_akademik
-    - action: utter_tanya_evaluasi_akademik
+  - rule:
+    steps:
+      - intent: tanya_kriteria_putus_studi_program_diploma
+      - action: utter_tanya_kriteria_putus_studi_program_diploma
 
-- rule : 
-  steps:
-    - intent: tanya_kriteria_putus_studi_program_diploma
-    - action: utter_tanya_kriteria_putus_studi_program_diploma
+  - rule:
+    steps:
+      - intent: tanya_kriteria_putus_studi_program_sarjana
+      - action: utter_tanya_kriteria_putus_studi_program_sarjana
 
-- rule : 
-  steps:
-    - intent: tanya_kriteria_putus_studi_program_sarjana
-    - action: utter_tanya_kriteria_putus_studi_program_sarjana
+  - rule:
+    steps:
+      - intent: tanya_kriteria_putus_studi_program_margister
+      - action: utter_tanya_kriteria_putus_studi_program_magister
 
-- rule : 
-  steps:
-    - intent: tanya_kriteria_putus_studi_program_margister
-    - action: utter_tanya_kriteria_putus_studi_program_magister
-
-- rule : 
-  steps:
-    - intent: tanya_kriteria_putus_studi_program_doktor
-    - action: utter_tanya_kriteria_putus_studi_program_doktor
+  - rule:
+    steps:
+      - intent: tanya_kriteria_putus_studi_program_doktor
+      - action: utter_tanya_kriteria_putus_studi_program_doktor
